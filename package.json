@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-express",
+  "version": "1.0.0",
+  "description": "express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuocBao92/nodejs_express.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "baonq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuocBao92/nodejs_express/issues"
+  },
+  "homepage": "https://github.com/QuocBao92/nodejs_express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
