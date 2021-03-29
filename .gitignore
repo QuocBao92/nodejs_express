@@ -1,2 +1,5 @@
 .vscode
+
+/src/public
+
 /node_modules
