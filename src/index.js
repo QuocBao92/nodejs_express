@@ -14,10 +14,10 @@ app.engine(
   "hbs",
   handlebars({
     extname: "hbs",
-  })
+  }),
 );
 
-app.set("views", path.join(__dirname, "resources/views"));
+app.set("views", path.join(__dirname, "resources", "views"));
 app.set("view engine", "hbs");
 
 // static file
@@ -27,12 +27,16 @@ app.use(express.static(path.join(__dirname, "public")));
 app.use(
   express.urlencoded({
     extended: true,
-  })
+  }),
 );
 app.use(express.json());
 
-// Route
+// Routes init
 const route = require("./routes");
 route(app);
+
+// Connect to DB
+const db = require("./config/db");
+db.connect();
 
 app.listen(port, () => console.log(`Listen in port ${port}`));
