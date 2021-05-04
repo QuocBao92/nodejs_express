@@ -1,0 +1,48 @@
+[
+  {
+    "typeId": "ISPK06",
+    "assetId": "B54F06",
+    "versions": [
+      { "name": "CUTE", "version": "ISP-K05B Ver.11.10R0" },
+      { "name": "KERNEL", "version": "4.1.15-2.1.0" },
+      { "name": "SUBCPU", "version": "S003C" },
+      { "name": "UBOOT", "version": "U-Boot 2016.03-imx_v2016.03_4.1.15_2.0.0_ga+gb0fc3aa3 (May 21 2019 - 08 57 20 +0000)" }
+    ]
+  },
+  {
+    "typeId": "SDRB100",
+    "assetId": "B54F0B",
+    "versions": [
+      { "name": "BV_AP", "version": "01-01" },
+      { "name": "BV_DL", "version": "01-01" },
+      { "name": "BV_FORMAT", "version": "03-00" },
+      { "name": "BV_GENERAL1", "version": "01-01" },
+      { "name": "BV_GENERAL2", "version": "03-04" },
+      { "name": "BV_PARAM1", "version": "01-01" },
+      { "name": "BV_PARAM2", "version": "01-01" },
+      { "name": "COLLECT_SERIAL", "version": "0000-0000" },
+      { "name": "FPGA1", "version": "01-0B" },
+      { "name": "FPGA2", "version": "00-00" },
+      { "name": "IPL", "version": "01-03" },
+      { "name": "MAIN_AP", "version": "A006B" },
+      { "name": "PLD1", "version": "01-02" },
+      { "name": "PLD2", "version": "00-00" },
+      { "name": "SPEC_INFO", "version": "10-000000" },
+      { "name": "UN_CC", "version": "MLT" },
+      { "name": "UN_CMB", "version": "0102" },
+      { "name": "UN_FUNC", "version": "A" },
+      { "name": "UN_GENERAL", "version": "01" },
+      { "name": "UN_SERIAL", "version": "000004" }
+    ]
+  },
+  {
+    "typeId": "SDRC100",
+    "assetId": "B54F0C",
+    "versions": [
+      { "name": "CV_AP", "version": "AA01A" },
+      { "name": "CV_COUNTRY", "version": "02000000-01080000" },
+      { "name": "MAIN_AP", "version": "A006C" },
+      { "name": "SPEC_INFO", "version": "00-000080" }
+    ]
+  }
+]

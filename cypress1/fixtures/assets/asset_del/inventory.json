@@ -1,0 +1,54 @@
+{
+  "typeId": "CI100",
+  "assetId": "B54FCI100",
+  "subAssets": [
+    {
+      "typeId": "SDRB100",
+      "assetId": "B54F0B",
+      "cashUnits": [
+        {
+          "unit": "casset 1",
+          "capacity": 600,
+          "status": "full",
+          "denominations": [{ "count": 600, "currencyCode": "EUR", "faceValue": "5" }]
+        },
+        {
+          "unit": "casset 2",
+          "capacity": 600,
+          "status": "empty",
+          "denominations": [{ "count": 0, "currencyCode": "EUR", "faceValue": "10" }]
+        },
+        {
+          "unit": "casset 3",
+          "capacity": 600,
+          "status": "nearempty",
+          "denominations": [{ "count": 1, "currencyCode": "EUR", "faceValue": "20" }]
+        }
+      ]
+    },
+    {
+      "typeId": "SDRC100",
+      "assetId": "B54F0C",
+      "cashUnits": [
+        {
+          "unit": "casset 1",
+          "capacity": 600,
+          "status": "full",
+          "denominations": [{ "count": 600, "currencyCode": "EUR", "faceValue": "0.05" }]
+        },
+        {
+          "unit": "casset 2",
+          "capacity": 600,
+          "status": "empty",
+          "denominations": [{ "count": 0, "currencyCode": "EUR", "faceValue": "0.1" }]
+        },
+        {
+          "unit": "casset 3",
+          "capacity": 600,
+          "status": "nearempty",
+          "denominations": [{ "count": 1, "currencyCode": "EUR", "faceValue": "0.2" }]
+        }
+      ]
+    }
+  ]
+}

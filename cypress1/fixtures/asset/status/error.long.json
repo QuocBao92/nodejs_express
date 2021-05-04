@@ -1,0 +1,32 @@
+{
+  "typeId": "CI10",
+  "assetId": "100010",
+  "status": "error",
+  "errorCode": "E0000",
+  "subAssets": [
+    {
+      "typeId": "ISPK05",
+      "assetId": "100011",
+      "status": "error",
+      "errorCode": "E0001E0001E0001E0001E0001E0001E0001E0001E0001E0001",
+      "assetType": "ISPK05",
+      "errorMessage": "Unknown error Unknown error Unknown error Unknown error Unknown error Unknown error Unknown error Unknown error Unknown error Unknown error"
+    },
+    {
+      "typeId": "RBW150",
+      "assetId": "100012",
+      "status": "error",
+      "errorCode": "E0002E0002E0002E0002E0002E0002E0002E0002E0002E0002",
+      "assetType": "RBW150",
+      "errorMessage": "Unknown error Unknown error Unknown error Unknown error Unknown error Unknown error Unknown error Unknown error Unknown error Unknown error"
+    },
+    {
+      "typeId": "RCW100",
+      "assetId": "100013",
+      "status": "error",
+      "errorCode": "E0003E0003E0003E0003E0003E0003E0003E0003E0003E0003",
+      "assetType": "RCW100",
+      "errorMessage": "Unknown error Unknown error Unknown error Unknown error Unknown error Unknown error Unknown error Unknown error Unknown error Unknown error"
+    }
+  ]
+}

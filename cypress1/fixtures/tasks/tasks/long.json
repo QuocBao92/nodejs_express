@@ -1,0 +1,567 @@
+{
+  "totalCount": 10,
+  "items": [
+    {
+      "id": "5ef63584-9fa1-4d94-b83e-cba4d01434d6",
+      "name": "e2e Deployment e2e Deployment e2e Deployment e2e Deployment e2e Deployment e2e Deployment e2e Deployment e2e Deployment e2e Deployment e2e Deployment",
+      "taskType": "downloadpackage",
+      "relatedTaskId": "5ef63584-9fa1-4d94-b83e-cba4d01434d6",
+      "relatedTaskType": "Install",
+      "status": "complete",
+      "createdBy": "Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test",
+      "updatedBy": "Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test",
+      "createdAt": "2020-10-26T01:11:23.000Z",
+      "updatedAt": "2020-10-26T01:12:23.000Z",
+      "startedAt": "2020-10-26T01:01:00.000Z",
+      "expireAt": "",
+      "executionStartedAt": "2020-10-26T01:12:29.029Z",
+      "executionFinishedAt": "2020-10-26T01:13:23.000Z",
+      "downloadPackageTaskAssets": [
+        {
+          "alias": "this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias",
+          "status": "complete",
+          "typeId": "CI10",
+          "assetId": "100000",
+          "regionId": "North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region",
+          "startedAt": "2020-10-26T10:12:29.029",
+          "updatedAt": "2020-10-26T10:12:59.059",
+          "customerId": "GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD.",
+          "locationId": "Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ",
+          "result": "complete"
+        },
+        {
+          "alias": "this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias",
+          "status": "published",
+          "typeId": "CI10",
+          "assetId": "100001",
+          "regionId": "North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region",
+          "startedAt": "2020-10-26T10:12:29.029",
+          "updatedAt": "2020-10-26T10:12:59.059",
+          "customerId": "GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD.",
+          "locationId": "Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ",
+          "result": "complete"
+        },
+        {
+          "alias": "this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias",
+          "status": "queued",
+          "typeId": "CI10",
+          "assetId": "100002",
+          "regionId": "North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region",
+          "startedAt": "2020-10-26T10:12:29.029",
+          "updatedAt": "2020-10-26T10:12:59.059",
+          "customerId": "GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD.",
+          "locationId": "Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ",
+          "result": "complete"
+        },
+        {
+          "alias": "this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias",
+          "status": "error",
+          "typeId": "CI10",
+          "assetId": "100003",
+          "regionId": "North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region",
+          "startedAt": "2020-10-26T10:12:29.029",
+          "updatedAt": "2020-10-26T10:12:59.059",
+          "customerId": "GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD.",
+          "locationId": "Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ",
+          "result": "complete"
+        }
+      ],
+      "installTaskAssets": [],
+      "deploymentTaskPackages": [
+        {
+          "date": "2020-10-23T11:34:23.923",
+          "name": "e2e-firmware.zip",
+          "summary": "e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100",
+          "packageId": "0429534a-e9d2-443b-a6b0-71bd1aa512c3"
+        }
+      ],
+      "logTask": {
+        "logType": ""
+      },
+      "logTaskAssets": [],
+      "retrieveLogs": [],
+      "rebootTask": {},
+      "rebootTaskAssets": [],
+      "selfTestTask": {},
+      "selfTestTaskAssets": []
+    },
+    {
+      "id": "008461a2-5d10-413a-aa46-dc7e7982ed78",
+      "name": "e2e Deployment e2e Deployment e2e Deployment e2e Deployment e2e Deployment e2e Deployment e2e Deployment e2e Deployment e2e Deployment e2e Deployment",
+      "taskType": "install",
+      "relatedTaskId": "5ef63584-9fa1-4d94-b83e-cba4d01434d6",
+      "relatedTaskType": "DownloadPackage",
+      "status": "complete",
+      "createdBy": "Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test",
+      "updatedBy": "Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test",
+      "createdAt": "2020-10-26T01:11:22.000Z",
+      "updatedAt": "2020-10-26T01:12:22.000Z",
+      "startedAt": "2020-10-26T01:01:00.000Z",
+      "expireAt": "",
+      "executionStartedAt": "2020-10-26T01:12:28.028Z",
+      "executionFinishedAt": "2020-10-26T01:13:22.000Z",
+      "downloadPackageTaskAssets": [],
+      "installTaskAssets": [
+        {
+          "alias": "this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias",
+          "status": "complete",
+          "typeId": "CI10",
+          "assetId": "100000",
+          "regionId": "North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region",
+          "startedAt": "2020-10-26T10:12:28.028",
+          "updatedAt": "2020-10-26T10:12:58.058",
+          "customerId": "GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD.",
+          "locationId": "Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ",
+          "result": "complete"
+        }
+      ],
+      "deploymentTaskPackages": [
+        {
+          "date": "2020-10-23T11:34:23.923",
+          "name": "e2e-firmware.zip",
+          "summary": "e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100",
+          "packageId": "0429534a-e9d2-443b-a6b0-71bd1aa512c3"
+        }
+      ],
+      "logTask": {
+        "logType": ""
+      },
+      "logTaskAssets": [],
+      "retrieveLogs": [],
+      "rebootTask": {},
+      "rebootTaskAssets": [],
+      "selfTestTask": {},
+      "selfTestTaskAssets": []
+    },
+    {
+      "id": "ab8a1ac5-2d01-4f09-ba74-e10e8b685a0b",
+      "name": "e2e Deployment e2e Deployment e2e Deployment e2e Deployment e2e Deployment e2e Deployment e2e Deployment e2e Deployment e2e Deployment e2e Deployment",
+      "taskType": "downloadpackage",
+      "relatedTaskId": "9e861f22-9691-4e85-bdce-a417ca2986ec",
+      "relatedTaskType": "Install",
+      "status": "inprogress",
+      "createdBy": "Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test",
+      "updatedBy": "Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test",
+      "createdAt": "2020-10-26T01:11:21.000Z",
+      "updatedAt": "2020-10-26T01:12:21.000Z",
+      "startedAt": "2020-10-26T01:01:00.000Z",
+      "expireAt": "",
+      "executionStartedAt": "2020-10-26T01:12:27.027Z",
+      "executionFinishedAt": "",
+      "downloadPackageTaskAssets": [
+        {
+          "alias": "this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias",
+          "status": "inprogress",
+          "typeId": "CI10",
+          "assetId": "100000",
+          "regionId": "North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region",
+          "startedAt": "2020-10-26T10:12:27.027",
+          "updatedAt": "2020-10-26T10:12:57.057",
+          "customerId": "GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD.",
+          "locationId": "Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ"
+        }
+      ],
+      "installTaskAssets": [],
+      "deploymentTaskPackages": [
+        {
+          "date": "2020-10-23T11:34:23.923",
+          "name": "e2e-firmware.zip",
+          "summary": "e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100",
+          "packageId": "0429534a-e9d2-443b-a6b0-71bd1aa512c3"
+        }
+      ],
+      "logTask": {
+        "logType": ""
+      },
+      "logTaskAssets": [],
+      "retrieveLogs": [],
+      "rebootTask": {},
+      "rebootTaskAssets": [],
+      "selfTestTask": {},
+      "selfTestTaskAssets": []
+    },
+    {
+      "id": "9e861f22-9691-4e85-bdce-a417ca2986ec",
+      "name": "e2e Deployment e2e Deployment e2e Deployment e2e Deployment e2e Deployment e2e Deployment e2e Deployment e2e Deployment e2e Deployment e2e Deployment",
+      "taskType": "install",
+      "relatedTaskId": "ab8a1ac5-2d01-4f09-ba74-e10e8b685a0b",
+      "relatedTaskType": "DownloadPackage",
+      "status": "scheduled",
+      "createdBy": "Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test",
+      "updatedBy": "Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test",
+      "createdAt": "2020-10-26T01:11:20.000Z",
+      "updatedAt": "2020-10-26T01:12:20.000Z",
+      "startedAt": "2030-12-31T01:01:00.000Z",
+      "expireAt": "",
+      "executionStartedAt": "",
+      "executionFinishedAt": "",
+      "downloadPackageTaskAssets": [],
+      "installTaskAssets": [
+        {
+          "alias": "this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias",
+          "status": "queued",
+          "typeId": "CI10",
+          "assetId": "100000",
+          "regionId": "North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region",
+          "startedAt": "",
+          "updatedAt": "2020-10-26T10:12:56.056",
+          "customerId": "GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD.",
+          "locationId": "Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ"
+        }
+      ],
+      "deploymentTaskPackages": [
+        {
+          "date": "2020-10-23T11:34:23.923",
+          "name": "e2e-firmware.zip",
+          "summary": "e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100",
+          "packageId": "0429534a-e9d2-443b-a6b0-71bd1aa512c3"
+        }
+      ],
+      "logTask": {
+        "logType": ""
+      },
+      "logTaskAssets": [],
+      "retrieveLogs": [],
+      "rebootTask": {},
+      "rebootTaskAssets": [],
+      "selfTestTask": {},
+      "selfTestTaskAssets": []
+    },
+    {
+      "id": "737446b2-42fb-4ad7-96f3-b7bf03a418e2",
+      "name": "e2e DownloadPackage e2e DownloadPackage e2e DownloadPackage e2e DownloadPackage e2e DownloadPackage e2e DownloadPackage e2e DownloadPackage e2e DownloadPackage e2e DownloadPackage e2e DownloadPackage",
+      "taskType": "downloadpackage",
+      "relatedTaskId": null,
+      "relatedTaskType": null,
+      "status": "inprogress",
+      "createdBy": "Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test",
+      "updatedBy": "Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test",
+      "createdAt": "2020-10-26T01:11:19.000Z",
+      "updatedAt": "2020-10-26T01:12:19.000Z",
+      "startedAt": "2020-10-26T01:01:00.000Z",
+      "expireAt": "",
+      "executionStartedAt": "2020-10-26T01:12:25.025Z",
+      "executionFinishedAt": "",
+      "downloadPackageTaskAssets": [
+        {
+          "alias": "this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias",
+          "status": "published",
+          "typeId": "CI10",
+          "assetId": "100000",
+          "regionId": "North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region",
+          "startedAt": "2020-10-26T10:12:25.025",
+          "updatedAt": "2020-10-26T10:12:55.055",
+          "customerId": "GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD.",
+          "locationId": "Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ"
+        }
+      ],
+      "installTaskAssets": [],
+      "deploymentTaskPackages": [
+        {
+          "date": "2020-10-23T11:34:23.923",
+          "name": "e2e-firmware.zip",
+          "summary": "e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100",
+          "packageId": "0429534a-e9d2-443b-a6b0-71bd1aa512c3"
+        }
+      ],
+      "logTask": {
+        "logType": ""
+      },
+      "logTaskAssets": [],
+      "retrieveLogs": [],
+      "rebootTask": {},
+      "rebootTaskAssets": [],
+      "selfTestTask": {},
+      "selfTestTaskAssets": []
+    },
+    {
+      "id": "e73857c9-bf69-40d3-9fae-ba52eccb1f18",
+      "name": "Business,Trace e2e RetrieveLog e2e RetrieveLog e2e RetrieveLog e2e RetrieveLog e2e RetrieveLog e2e RetrieveLog e2e RetrieveLog e2e RetrieveLog e2e RetrieveLog e2e RetrieveLog",
+      "taskType": "retrievelog",
+      "relatedTaskId": null,
+      "relatedTaskType": null,
+      "status": "complete",
+      "createdBy": "Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test",
+      "updatedBy": "Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test",
+      "createdAt": "2020-10-26T01:11:18.000Z",
+      "updatedAt": "2020-10-26T01:12:18.000Z",
+      "startedAt": "2020-10-26T01:01:00.000Z",
+      "expireAt": "",
+      "executionStartedAt": "2020-10-26T01:12:24.024Z",
+      "executionFinishedAt": "2020-10-26T01:13:18.000Z",
+      "downloadPackageTaskAssets": [],
+      "installTaskAssets": [],
+      "deploymentTaskPackages": [
+        {
+          "name": ""
+        }
+      ],
+      "logTask": {
+        "memo": "e2e RetrieveLog e2e RetrieveLog e2e RetrieveLog e2e RetrieveLog e2e RetrieveLog e2e RetrieveLog e2e RetrieveLog e2e RetrieveLog e2e RetrieveLog e2e RetrieveLog",
+        "logType": "Business,Trace"
+      },
+      "logTaskAssets": [
+        {
+          "alias": "this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias",
+          "status": "complete",
+          "typeId": "CI10",
+          "assetId": "100000",
+          "regionId": "North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region",
+          "startedAt": "2020-10-26T10:12:24.024",
+          "updatedAt": "2020-10-26T10:12:54.054",
+          "customerId": "GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD.",
+          "locationId": "Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ",
+          "result": "complete"
+        }
+      ],
+      "retrieveLogs": [
+        {
+          "status": "succeed",
+          "typeId": "CI10",
+          "assetId": "100000",
+          "errorMsg": "",
+          "filePath": "ftps://ftp.glory-cloud.dev/e73857c9-bf69-40d3-9fae-ba52eccb1f18/ISPK05-100001.tar.gz",
+          "createdAt": "2020-10-26T10:12:48.148",
+          "errorCode": ""
+        },
+        {
+          "status": "succeed",
+          "typeId": "CI10",
+          "assetId": "100000",
+          "errorMsg": "",
+          "filePath": "ftps://ftp.glory-cloud.dev/e73857c9-bf69-40d3-9fae-ba52eccb1f18/RBW100-100002.tar.gz",
+          "createdAt": "2020-10-26T10:12:47.147",
+          "errorCode": ""
+        },
+        {
+          "status": "succeed",
+          "typeId": "CI10",
+          "assetId": "100000",
+          "errorMsg": "",
+          "filePath": "ftps://ftp.glory-cloud.dev/e73857c9-bf69-40d3-9fae-ba52eccb1f18/RCW100-100003.tar.gz",
+          "createdAt": "2020-10-26T10:12:46.146",
+          "errorCode": ""
+        }
+      ],
+      "rebootTask": {},
+      "rebootTaskAssets": [],
+      "selfTestTask": {},
+      "selfTestTaskAssets": []
+    },
+    {
+      "id": "e4b54784-6ba4-4b22-a7fa-c0debee3040e",
+      "name": "e2e Reboot e2e Reboot e2e Reboot e2e Reboot e2e Reboot e2e Reboot e2e Reboot e2e Reboot e2e Reboot e2e Reboot",
+      "taskType": "reboot",
+      "relatedTaskId": null,
+      "relatedTaskType": null,
+      "status": "complete",
+      "createdBy": "Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test",
+      "updatedBy": "Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test",
+      "createdAt": "2020-10-26T01:11:17.000Z",
+      "updatedAt": "2020-10-26T01:12:17.000Z",
+      "startedAt": "2020-10-26T01:01:00.000Z",
+      "expireAt": "",
+      "executionStartedAt": "2020-10-26T01:12:23.023Z",
+      "executionFinishedAt": "2020-10-26T01:13:17.000Z",
+      "downloadPackageTaskAssets": [],
+      "installTaskAssets": [],
+      "deploymentTaskPackages": [
+        {
+          "name": ""
+        }
+      ],
+      "logTask": {
+        "logType": ""
+      },
+      "logTaskAssets": [],
+      "retrieveLogs": [],
+      "rebootTask": {
+        "memo": "e2e Reboot e2e Reboot e2e Reboot e2e Reboot e2e Reboot e2e Reboot e2e Reboot e2e Reboot e2e Reboot e2e Reboot"
+      },
+      "rebootTaskAssets": [
+        {
+          "alias": "this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias",
+          "status": "complete",
+          "typeId": "CI100",
+          "assetId": "100000",
+          "regionId": "North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region",
+          "startedAt": "2020-10-26T10:12:23.023",
+          "updatedAt": "2020-10-26T10:12:53.053",
+          "customerId": "GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD.",
+          "locationId": "Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ",
+          "result": "complete"
+        }
+      ],
+      "selfTestTask": {},
+      "selfTestTaskAssets": []
+    },
+    {
+      "id": "173191c4-7978-4192-8158-27c7c751b74f",
+      "name": "e2e SelfTest e2e SelfTest e2e SelfTest e2e SelfTest e2e SelfTest e2e SelfTest e2e SelfTest e2e SelfTest e2e SelfTest e2e SelfTest",
+      "taskType": "selftest",
+      "relatedTaskId": null,
+      "relatedTaskType": null,
+      "status": "complete",
+      "createdBy": "Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test",
+      "updatedBy": "Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test",
+      "createdAt": "2020-10-26T01:11:16.000Z",
+      "updatedAt": "2020-10-26T01:12:16.000Z",
+      "startedAt": "2020-10-26T01:01:00.000Z",
+      "expireAt": "",
+      "executionStartedAt": "2020-10-26T01:12:22.022Z",
+      "executionFinishedAt": "2020-10-26T01:13:16.000Z",
+      "downloadPackageTaskAssets": [],
+      "installTaskAssets": [],
+      "deploymentTaskPackages": [
+        {
+          "name": ""
+        }
+      ],
+      "logTask": {
+        "logType": ""
+      },
+      "logTaskAssets": [],
+      "retrieveLogs": [],
+      "rebootTask": {},
+      "rebootTaskAssets": [],
+      "selfTestTask": {
+        "memo": "e2e SelfTest e2e SelfTest e2e SelfTest e2e SelfTest e2e SelfTest e2e SelfTest e2e SelfTest e2e SelfTest e2e SelfTest e2e SelfTest"
+      },
+      "selfTestTaskAssets": [
+        {
+          "alias": "this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias",
+          "status": "complete",
+          "typeId": "CI10",
+          "assetId": "100000",
+          "regionId": "North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region",
+          "startedAt": "2020-10-26T10:12:22.022",
+          "updatedAt": "2020-10-26T10:12:52.052",
+          "customerId": "GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD.",
+          "locationId": "Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ",
+          "result": "complete"
+        }
+      ]
+    },
+    {
+      "id": "99cad10e-fbde-4da0-81f0-33f8b5624e1a",
+      "name": "Business,Trace e2e RetrieveLog Error!! e2e RetrieveLog Error!! e2e RetrieveLog Error!! e2e RetrieveLog Error!! e2e RetrieveLog Error!! e2e RetrieveLog Error!! e2e RetrieveLog Error!! e2e RetrieveLog Error!! e2e RetrieveLog Error!! e2e RetrieveLog Error!!",
+      "taskType": "retrievelog",
+      "relatedTaskId": null,
+      "relatedTaskType": null,
+      "status": "failure",
+      "createdBy": "Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test",
+      "updatedBy": "Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test",
+      "createdAt": "2020-10-26T01:11:15.000Z",
+      "updatedAt": "2020-10-26T01:12:15.000Z",
+      "startedAt": "2020-10-26T01:01:00.000Z",
+      "expireAt": "",
+      "executionStartedAt": "2020-10-26T01:12:21.021Z",
+      "executionFinishedAt": "2020-10-26T01:13:15.000Z",
+      "downloadPackageTaskAssets": [],
+      "installTaskAssets": [],
+      "deploymentTaskPackages": [
+        {
+          "name": ""
+        }
+      ],
+      "logTask": {
+        "memo": "e2e RetrieveLog Error!! e2e RetrieveLog Error!! e2e RetrieveLog Error!! e2e RetrieveLog Error!! e2e RetrieveLog Error!! e2e RetrieveLog Error!! e2e RetrieveLog Error!! e2e RetrieveLog Error!! e2e RetrieveLog Error!! e2e RetrieveLog Error!!",
+        "logType": "Business,Trace"
+      },
+      "logTaskAssets": [
+        {
+          "alias": "this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias",
+          "status": "error",
+          "typeId": "CI10",
+          "assetId": "100010",
+          "regionId": "North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region",
+          "startedAt": "2020-10-26T10:12:21.021",
+          "updatedAt": "2020-10-26T10:12:51.051",
+          "customerId": "GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD.",
+          "locationId": "Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ",
+          "result": "connectionerror"
+        }
+      ],
+      "retrieveLogs": [
+        {
+          "status": "succeed",
+          "typeId": "CI10",
+          "assetId": "100010",
+          "errorMsg": "",
+          "filePath": "ftps://ftp.glory-cloud.dev/99cad10e-fbde-4da0-81f0-33f8b5624e1a/ISPK05-100001.tar.gz",
+          "createdAt": "2020-10-26T10:12:39.139",
+          "errorCode": ""
+        },
+        {
+          "status": "succeed",
+          "typeId": "CI10",
+          "assetId": "100010",
+          "errorMsg": "",
+          "filePath": "ftps://ftp.glory-cloud.dev/99cad10e-fbde-4da0-81f0-33f8b5624e1a/RBW100-100002.tar.gz",
+          "createdAt": "2020-10-26T10:12:38.138",
+          "errorCode": ""
+        },
+        {
+          "status": "error",
+          "typeId": "CI10",
+          "assetId": "100010",
+          "errorMsg": "Unexpected error Unexpected error Unexpected error Unexpected error Unexpected error Unexpected error Unexpected error Unexpected error Unexpected error Unexpected error",
+          "filePath": "ftps://ftp.glory-cloud.dev/99cad10e-fbde-4da0-81f0-33f8b5624e1a/RCW100-100003.tar.gz",
+          "createdAt": "2020-10-26T10:12:37.137",
+          "errorCode": "E500E500E500E500E500E500E500E500E500E500"
+        }
+      ],
+      "rebootTask": {},
+      "rebootTaskAssets": [],
+      "selfTestTask": {},
+      "selfTestTaskAssets": []
+    },
+    {
+      "id": "a342b443-f125-48c9-9618-ff09db71b6a8",
+      "name": "e2e Reboot Error!! e2e Reboot Error!! e2e Reboot Error!! e2e Reboot Error!! e2e Reboot Error!! e2e Reboot Error!! e2e Reboot Error!! e2e Reboot Error!! e2e Reboot Error!! e2e Reboot Error!!",
+      "taskType": "reboot",
+      "relatedTaskId": null,
+      "relatedTaskType": null,
+      "status": "failure",
+      "createdBy": "Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test",
+      "updatedBy": "Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test",
+      "createdAt": "2020-10-26T01:11:14.000Z",
+      "updatedAt": "2020-10-26T01:12:14.000Z",
+      "startedAt": "2020-10-26T01:01:00.000Z",
+      "expireAt": "",
+      "executionStartedAt": "2020-10-26T01:12:20.020Z",
+      "executionFinishedAt": "2020-10-26T01:13:14.000Z",
+      "downloadPackageTaskAssets": [],
+      "installTaskAssets": [],
+      "deploymentTaskPackages": [
+        {
+          "name": ""
+        }
+      ],
+      "logTask": {
+        "logType": ""
+      },
+      "logTaskAssets": [],
+      "retrieveLogs": [],
+      "rebootTask": {
+        "memo": "e2e Reboot Error!! e2e Reboot Error!! e2e Reboot Error!! e2e Reboot Error!! e2e Reboot Error!! e2e Reboot Error!! e2e Reboot Error!! e2e Reboot Error!! e2e Reboot Error!! e2e Reboot Error!!"
+      },
+      "rebootTaskAssets": [
+        {
+          "alias": "this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias",
+          "status": "error",
+          "typeId": "CI10",
+          "assetId": "100010",
+          "regionId": "North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region",
+          "startedAt": "2020-10-26T10:12:20.02",
+          "updatedAt": "2020-10-26T10:12:50.05",
+          "customerId": "GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD.",
+          "locationId": "Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ",
+          "result": "systemerrorsystemerrorsystemerrorsystemerrorsystemerrorsystemerrorsystemerrorsystemerrorsystemerrorsystemerror"
+        }
+      ],
+      "selfTestTask": {},
+      "selfTestTaskAssets": []
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "totalCount": 25,
+  "items": [
+    {
+      "packageId": "0429534a-e9d2-443b-a6b0-71bd1aa512c3",
+      "name": "e2e-firmware.zip",
+      "status": "complete",
+      "summary": "e2e debug patch for RCW100",
+      "date": "2020-10-23T02:34:23.923Z",
+      "description": "This is debug firmware",
+      "uploadBy": "Etoe Test",
+      "model": "RCW100",
+      "memo": "e2e memo",
+      "elements": [
+        {
+          "name": "SPEC_INFO",
+          "version": "00-000000"
+        },
+        {
+          "name": "MAIN_AP",
+          "version": "C"
+        },
+        {
+          "name": "CV_COUNTRY",
+          "version": "02000000-02000002"
+        },
+        {
+          "name": "CV_AP",
+          "version": "SC12Z"
+        }
+      ]
+    },
+    {
+      "packageId": "b37e6603-675d-4967-8917-5cc28bb41e41",
+      "name": "e2e-firmware-error.zip",
+      "status": "invalid",
+      "summary": "",
+      "date": "2020-10-23T02:34:13.477Z",
+      "description": "",
+      "uploadBy": "Etoe Test",
+      "model": "",
+      "memo": "",
+      "elements": []
+    },
+    {
+      "packageId": "dbbbcad7-6fca-4026-a4ae-d3df8d08c8e6",
+      "name": "e2e-firmware-error-02.zip",
+      "status": "failure",
+      "summary": "",
+      "date": "2020-10-23T01:20:30.000Z",
+      "description": "",
+      "uploadBy": "Etoe Tes",
+      "model": "",
+      "memo": "",
+      "elements": []
+    },
+    {
+      "packageId": "47e03136-aaf7-4888-976e-c616e32c42b0",
+      "name": "e2e-firmware-validating.zip",
+      "status": "validating",
+      "summary": "",
+      "date": "2020-10-23T01:11:12.000Z",
+      "description": "",
+      "uploadBy": "Etoe Test",
+      "model": "",
+      "memo": "",
+      "elements": []
+    },
+    {
+      "packageId": "33c9ca56-58ea-4c57-b64c-426c3d274ed8",
+      "name": "e2e-firmware-uploading.zip",
+      "status": "uploading",
+      "summary": "",
+      "date": "2020-10-22T01:11:12.000Z",
+      "description": "",
+      "uploadBy": "Etoe Test",
+      "model": "",
+      "memo": "",
+      "elements": []
+    },
+    {
+      "packageId": "4b12ccd8-9c80-4ab8-99d2-58f3d719f703",
+      "name": "e2e-firmware01.zip",
+      "status": "complete",
+      "summary": "e2e debug patch",
+      "date": "2020-10-21T01:11:12.000Z",
+      "description": "This is debug firmware",
+      "uploadBy": "Etoe Test",
+      "model": "RCW100",
+      "memo": "",
+      "elements": []
+    },
+    {
+      "packageId": "e1c3c45f-57fd-452d-8dd6-f199a99546dd",
+      "name": "e2e-firmware02.zip",
+      "status": "complete",
+      "summary": "e2e debug patch",
+      "date": "2020-10-20T01:11:12.000Z",
+      "description": "This is debug firmware",
+      "uploadBy": "Etoe Test",
+      "model": "RCW100",
+      "memo": "",
+      "elements": []
+    },
+    {
+      "packageId": "aeb15d31-c950-43d9-9708-d8b61963eb68",
+      "name": "e2e-firmware03.zip",
+      "status": "complete",
+      "summary": "e2e debug patch",
+      "date": "2020-10-19T01:11:12.000Z",
+      "description": "This is debug firmware",
+      "uploadBy": "Etoe Test",
+      "model": "RCW100",
+      "memo": "",
+      "elements": []
+    },
+    {
+      "packageId": "02e814b2-c15e-43bc-be5a-1ba05b8f9abf",
+      "name": "e2e-firmware04.zip",
+      "status": "complete",
+      "summary": "e2e debug patch",
+      "date": "2020-10-18T01:11:12.000Z",
+      "description": "This is debug firmware",
+      "uploadBy": "Etoe Test",
+      "model": "RCW100",
+      "memo": "",
+      "elements": []
+    },
+    {
+      "packageId": "230950e7-f027-4bf1-86de-b2e9cc593388",
+      "name": "e2e-firmware05.zip",
+      "status": "complete",
+      "summary": "e2e debug patch",
+      "date": "2020-10-17T01:11:12.000Z",
+      "description": "This is debug firmware",
+      "uploadBy": "Etoe Test",
+      "model": "RCW100",
+      "memo": "",
+      "elements": []
+    }
+  ]
+}

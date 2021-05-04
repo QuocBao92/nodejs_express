@@ -1,0 +1,113 @@
+[
+  {
+    "status": "error",
+    "latitude": 36.689653,
+    "longitude": 139.692095,
+    "title": "East Japan Region",
+    "assetsCount": 12,
+    "assets": [
+      {
+        "status": "error",
+        "assetId": "100000",
+        "typeId": "CI10",
+        "alias": "this is alias this is alias this is alias this is alias this is alias this is alias"
+      },
+      {
+        "status": "good",
+        "assetId": "100010",
+        "typeId": "CI10",
+        "alias": "this is alias this is alias this is alias this is alias this is alias this is alias"
+      },
+      {
+        "status": "good",
+        "assetId": "100000",
+        "typeId": "CI100",
+        "alias": "this is alias this is alias this is alias this is alias this is alias this is alias"
+      },
+      {
+        "status": "good",
+        "assetId": "200010",
+        "typeId": "CI50",
+        "alias": "this is alias this is alias this is alias this is alias this is alias this is alias"
+      },
+      {
+        "status": "missing",
+        "assetId": "404516",
+        "typeId": "RB500",
+        "alias": "this is alias this is alias this is alias this is alias this is alias this is alias"
+      },
+      {
+        "status": "missing",
+        "assetId": "404530",
+        "typeId": "RB500",
+        "alias": "this is alias this is alias this is alias this is alias this is alias this is alias"
+      },
+      {
+        "status": "missing",
+        "assetId": "404544",
+        "typeId": "RB500",
+        "alias": "this is alias this is alias this is alias this is alias this is alias this is alias"
+      },
+      {
+        "status": "missing",
+        "assetId": "404558",
+        "typeId": "RB500",
+        "alias": "this is alias this is alias this is alias this is alias this is alias this is alias"
+      },
+      {
+        "status": "missing",
+        "assetId": "404572",
+        "typeId": "RB500",
+        "alias": "this is alias this is alias this is alias this is alias this is alias this is alias"
+      },
+      {
+        "status": "missing",
+        "assetId": "404586",
+        "typeId": "RB500",
+        "alias": "this is alias this is alias this is alias this is alias this is alias this is alias"
+      },
+      {
+        "status": "missing",
+        "assetId": "100000",
+        "typeId": "CI10",
+        "alias": "this is alias this is alias this is alias this is alias this is alias this is alias"
+      },
+      {
+        "status": "missing",
+        "assetId": "100000",
+        "typeId": "CI10",
+        "alias": "this is alias this is alias this is alias this is alias this is alias this is alias"
+      }
+    ]
+  },
+  {
+    "status": "good",
+    "latitude": 36.689653,
+    "longitude": 139.792095,
+    "title": "South Japan Region",
+    "assetsCount": 1,
+    "assets": [
+      {
+        "status": "good",
+        "assetId": "100000",
+        "typeId": "CI10",
+        "alias": "this is alias this is alias this is alias this is alias this is alias this is alias"
+      }
+    ]
+  },
+  {
+    "status": "missing",
+    "latitude": 36.789653,
+    "longitude": 139.692095,
+    "title": "North Japan Region",
+    "assetsCount": 1,
+    "assets": [
+      {
+        "status": "missing",
+        "assetId": "100000",
+        "typeId": "CI10",
+        "alias": "this is alias this is alias this is alias this is alias this is alias this is alias"
+      }
+    ]
+  }
+]

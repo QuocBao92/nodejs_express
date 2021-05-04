@@ -1,0 +1,64 @@
+{
+  "id": "5ef63584-9fa1-4d94-b83e-cba4d01434d6",
+  "name": "e2e Deployment",
+  "taskType": "install",
+  "status": "complete",
+  "createdBy": "Etoe Test",
+  "createdAt": "2020-10-26T01:11:23.000Z",
+  "updatedAt": "2020-10-26T01:12:23.000Z",
+  "downloadPackageTaskAssets": [],
+  "installTaskAssets": [
+    {
+      "alias": "this is alias",
+      "status": "complete",
+      "typeId": "CI10",
+      "assetId": "100000",
+      "regionId": "North Japan Region",
+      "startedAt": "2020-10-26T10:12:29.029",
+      "updatedAt": "2020-10-26T10:12:59.059",
+      "customerId": "GLORY LTD.",
+      "locationId": "Himeji HQ"
+    },
+    {
+      "alias": "this is alias",
+      "status": "published",
+      "typeId": "CI10",
+      "assetId": "100001",
+      "regionId": "North Japan Region",
+      "startedAt": "2020-10-26T10:12:29.029",
+      "updatedAt": "2020-10-26T10:12:59.059",
+      "customerId": "GLORY LTD.",
+      "locationId": "Himeji HQ"
+    },
+    {
+      "alias": "this is alias",
+      "status": "queued",
+      "typeId": "CI10",
+      "assetId": "100002",
+      "regionId": "North Japan Region",
+      "startedAt": "2020-10-26T10:12:29.029",
+      "updatedAt": "2020-10-26T10:12:59.059",
+      "customerId": "GLORY LTD.",
+      "locationId": "Himeji HQ"
+    },
+    {
+      "alias": "this is alias",
+      "status": "error",
+      "typeId": "CI10",
+      "assetId": "100003",
+      "regionId": "North Japan Region",
+      "startedAt": "2020-10-26T10:12:29.029",
+      "updatedAt": "2020-10-26T10:12:59.059",
+      "customerId": "GLORY LTD.",
+      "locationId": "Himeji HQ"
+    }
+  ],
+  "deploymentTaskPackages": [
+    {
+      "date": "2020-10-23T11:34:23.923",
+      "name": "e2e-firmware.zip",
+      "summary": "e2e debug patch for RCW100",
+      "packageId": "0429534a-e9d2-443b-a6b0-71bd1aa512c3"
+    }
+  ]
+}

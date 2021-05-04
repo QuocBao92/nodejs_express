@@ -1,0 +1,95 @@
+{
+  "totalCount": "541",
+  "items": [
+    {
+      "subject": "Create Task ( Install : example-firmware v3.3.6.zip )",
+      "eventParams": "{\"packageName\":\"example-firmware v3.3.6.zip\"}",
+      "importance": "information",
+      "eventSource": "bridge",
+      "eventType": "install",
+      "eventName": "create",
+      "date": "2020-10-18T07:24:59.675Z"
+    },
+    {
+      "subject": "Create Task ( Download Package : example-firmware v3.3.6.zip )",
+      "eventParams": "{\"packageName\":\"example-firmware v3.3.6.zip\"}",
+      "importance": "information",
+      "eventSource": "bridge",
+      "eventType": "downloadPackage",
+      "eventName": "create",
+      "date": "2020-10-18T07:24:59.582Z"
+    },
+    {
+      "subject": "Update Task ( Install : example-firmware v3.3.9.zip )",
+      "eventParams": "{\"packageName\":\"example-firmware v3.3.9.zip\"}",
+      "importance": "information",
+      "eventSource": "bridge",
+      "eventType": "install",
+      "eventName": "update",
+      "date": "2020-10-18T07:23:55.223Z"
+    },
+    {
+      "subject": "Update Task ( Download Package : example-firmware v3.3.9.zip )",
+      "eventParams": "{\"packageName\":\"example-firmware v3.3.9.zip\"}",
+      "importance": "information",
+      "eventSource": "bridge",
+      "eventType": "downloadPackage",
+      "eventName": "update",
+      "date": "2020-10-18T07:23:55.056Z"
+    },
+    {
+      "subject": "Update Task ( Install : example-firmware v3.3.9.zip )",
+      "eventParams": "{\"packageName\":\"example-firmware v3.3.9.zip\"}",
+      "importance": "information",
+      "eventSource": "bridge",
+      "eventType": "install",
+      "eventName": "update",
+      "date": "2020-10-18T07:22:44.504Z"
+    },
+    {
+      "subject": "Update Task ( Download Package : example-firmware v3.3.9.zip )",
+      "eventParams": "{\"packageName\":\"example-firmware v3.3.9.zip\"}",
+      "importance": "information",
+      "eventSource": "bridge",
+      "eventType": "downloadPackage",
+      "eventName": "update",
+      "date": "2020-10-18T07:22:44.079Z"
+    },
+    {
+      "subject": "Create Task ( Install : example-firmware v3.3.9.zip )",
+      "eventParams": "{\"packageName\":\"example-firmware v3.3.9.zip\"}",
+      "importance": "information",
+      "eventSource": "bridge",
+      "eventType": "install",
+      "eventName": "create",
+      "date": "2020-10-18T07:19:58.725Z"
+    },
+    {
+      "subject": "Create Task ( Download Package : example-firmware v3.3.9.zip )",
+      "eventParams": "{\"packageName\":\"example-firmware v3.3.9.zip\"}",
+      "importance": "information",
+      "eventSource": "bridge",
+      "eventType": "downloadPackage",
+      "eventName": "create",
+      "date": "2020-10-18T07:19:58.660Z"
+    },
+    {
+      "subject": "Fail Task ( Download Package : example-firmware v3.3.9.zip ) Error : SystemError",
+      "eventParams": "{\"packageName\":\"example-firmware v3.3.9.zip\",\"errorResult\":\"SystemError\"}",
+      "importance": "error",
+      "eventSource": "bridge",
+      "eventType": "downloadPackage",
+      "eventName": "fail",
+      "date": "2020-10-18T07:18:53.584Z"
+    },
+    {
+      "subject": "Create Task ( Install : example-firmware v3.3.9.zip )",
+      "eventParams": "{\"packageName\":\"example-firmware v3.3.9.zip\"}",
+      "importance": "information",
+      "eventSource": "bridge",
+      "eventType": "install",
+      "eventName": "create",
+      "date": "2020-10-18T07:18:52.978Z"
+    }
+  ]
+}

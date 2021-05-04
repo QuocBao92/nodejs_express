@@ -1,0 +1,95 @@
+{
+  "totalCount": "26",
+  "items": [
+    {
+      "subject": "Device 100002 / RBW100 : Connected ( IP Address : 128.168.91.173, File Transfer Protocol : ftps )",
+      "eventParams": "{\"typeId\":\"RBW100\",\"assetId\":\"100002\",\"ipAddress\":\"128.168.91.173\",\"fileTransferProtocol\":\"ftps\"}",
+      "importance": "information",
+      "eventSource": "asset",
+      "eventType": "",
+      "eventName": "connected",
+      "date": "2020-10-26T08:05:09.775Z"
+    },
+    {
+      "subject": "Device 100003 / RCW100 : Connected ( IP Address : 128.168.91.173, File Transfer Protocol : ftps )",
+      "eventParams": "{\"typeId\":\"RCW100\",\"assetId\":\"100003\",\"ipAddress\":\"128.168.91.173\",\"fileTransferProtocol\":\"ftps\"}",
+      "importance": "error",
+      "eventSource": "asset",
+      "eventType": "",
+      "eventName": "connected",
+      "date": "2020-10-26T08:05:09.775Z"
+    },
+    {
+      "subject": "Device 100001 / ISPK05 : Disconnected",
+      "eventParams": "{\"typeId\":\"ISPK05\",\"assetId\":\"100001\"}",
+      "importance": "information",
+      "eventSource": "asset",
+      "eventType": "",
+      "eventName": "disconnected",
+      "date": "2020-10-26T08:05:09.775Z"
+    },
+    {
+      "subject": "Device 100002 / RBW100 : Disconnected",
+      "eventParams": "{\"typeId\":\"RBW100\",\"assetId\":\"100002\"}",
+      "importance": "information",
+      "eventSource": "asset",
+      "eventType": "",
+      "eventName": "disconnected",
+      "date": "2020-10-26T08:05:09.775Z"
+    },
+    {
+      "subject": "Device 100003 / RCW100 : Disconnected",
+      "eventParams": "{\"typeId\":\"RCW100\",\"assetId\":\"100003\"}",
+      "importance": "information",
+      "eventSource": "asset",
+      "eventType": "",
+      "eventName": "disconnected",
+      "date": "2020-10-26T08:05:09.775Z"
+    },
+    {
+      "subject": "Device 100001 / ISPK05 : Firmware updated simulator-ISPK05-firmware-package.zip",
+      "eventParams": "{\"typeId\":\"ISPK05\",\"assetId\":\"100001\",\"packageList\":\"simulator-ISPK05-firmware-package.zip\"}",
+      "importance": "information",
+      "eventSource": "asset",
+      "eventType": "",
+      "eventName": "firmwareUpdated",
+      "date": "2020-10-26T08:05:09.775Z"
+    },
+    {
+      "subject": "Device 100002 / RBW100 : Firmware updated simulator-RBW100-firmware-package.zip",
+      "eventParams": "{\"typeId\":\"RBW100\",\"assetId\":\"100002\",\"packageList\":\"simulator-RBW100-firmware-package.zip\"}",
+      "importance": "information",
+      "eventSource": "asset",
+      "eventType": "",
+      "eventName": "firmwareUpdated",
+      "date": "2020-10-26T08:05:09.775Z"
+    },
+    {
+      "subject": "Device 100003 / RCW100 : Firmware updated simulator-RCW100-firmware-package.zip",
+      "eventParams": "{\"typeId\":\"RCW100\",\"assetId\":\"100003\",\"packageList\":\"simulator-RCW100-firmware-package.zip\"}",
+      "importance": "information",
+      "eventSource": "asset",
+      "eventType": "",
+      "eventName": "firmwareUpdated",
+      "date": "2020-10-26T08:05:09.775Z"
+    },
+    {
+      "subject": "Device 100002 / RBW100 : Inventory includes status : Full,Empty,NearEmpty",
+      "eventParams": "{\"typeId\":\"RBW100\",\"assetId\":\"100002\",\"status\":\"Full,Empty,NearEmpty\"}",
+      "importance": "information",
+      "eventSource": "asset",
+      "eventType": "",
+      "eventName": "inventoryChanged",
+      "date": "2020-10-26T08:05:09.775Z"
+    },
+    {
+      "subject": "Device 100001 / ISPK05 : Connected ( IP Address : 128.168.91.173, File Transfer Protocol : ftps )",
+      "eventParams": "{\"typeId\":\"ISPK05\",\"assetId\":\"100001\",\"ipAddress\":\"128.168.91.173\",\"fileTransferProtocol\":\"ftps\"}",
+      "importance": "information",
+      "eventSource": "asset",
+      "eventType": "",
+      "eventName": "connected",
+      "date": "2020-10-26T08:05:09.775Z"
+    }
+  ]
+}

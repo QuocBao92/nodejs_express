@@ -1,0 +1,47 @@
+{
+  "id": "5ef63584-9fa1-4d94-b83e-cba4d01434d6",
+  "memo": "e2e Reboot",
+  "createdBy": "Etoe Test",
+  "updatedAt": "2020-10-26T01:12:17.000Z",
+  "assets": [
+    {
+      "typeId": "CI100",
+      "assetId": "100000",
+      "status": "good",
+      "customerId": "GLORY LTD.",
+      "locationId": "Himeji HQ",
+      "regionId": "North Japan Region",
+      "alias": "this is alias",
+      "startedAt": "2020-10-26T10:12:23.023Z",
+      "updatedAt": "2020-10-26T10:12:53.053Z"
+    },
+    {
+      "alias": "this is alias",
+      "status": "error",
+      "typeId": "CI10",
+      "assetId": "100001",
+      "regionId": "North Japan Region",
+      "startedAt": "2020-10-26T10:12:29.029",
+      "updatedAt": "2020-10-26T10:12:59.059",
+      "customerId": "GLORY LTD.",
+      "locationId": "Himeji HQ"
+    },
+    {
+      "alias": "this is alias",
+      "status": "missing",
+      "typeId": "CI10",
+      "assetId": "100002",
+      "regionId": "North Japan Region",
+      "startedAt": "2020-10-26T10:12:29.029",
+      "updatedAt": "2020-10-26T10:12:59.059",
+      "customerId": "GLORY LTD.",
+      "locationId": "Himeji HQ"
+    }
+  ],
+  "detail": {
+    "status": "scheduled",
+    "scheduleType": "schedule",
+    "startAt": "2000-10-01T00:00:00",
+    "expireType": true
+  }
+}

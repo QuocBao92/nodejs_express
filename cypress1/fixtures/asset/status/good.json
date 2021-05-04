@@ -1,0 +1,22 @@
+{
+  "typeId": "CI10",
+  "assetId": "100000",
+  "status": "good",
+  "subAssets": [
+    {
+      "typeId": "ISPK05",
+      "assetId": "100001",
+      "status": "good"
+    },
+    {
+      "typeId": "RBW100",
+      "assetId": "100002",
+      "status": "good"
+    },
+    {
+      "typeId": "RCW100",
+      "assetId": "100003",
+      "status": "good"
+    }
+  ]
+}

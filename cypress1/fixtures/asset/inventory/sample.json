@@ -1,0 +1,138 @@
+{
+  "typeId": "CI10",
+  "assetId": "100000",
+  "subAssets": [
+    {
+      "typeId": "RBW100",
+      "assetId": "100002",
+      "cashUnits": [
+        {
+          "unit": "casset 1",
+          "capacity": 600,
+          "status": "full",
+          "denominations": [
+            {
+              "count": 600,
+              "currencyCode": "EUR",
+              "faceValue": "0.05"
+            }
+          ]
+        },
+        {
+          "unit": "casset 2",
+          "capacity": 600,
+          "status": "empty",
+          "denominations": [
+            {
+              "count": 0,
+              "currencyCode": "EUR",
+              "faceValue": "0.1"
+            }
+          ]
+        },
+        {
+          "unit": "casset 3",
+          "capacity": 600,
+          "status": "nearempty",
+          "denominations": [
+            {
+              "count": 1,
+              "currencyCode": "EUR",
+              "faceValue": "0.2"
+            }
+          ]
+        },
+        {
+          "unit": "casset 4",
+          "capacity": 600,
+          "status": "nearfull",
+          "denominations": [
+            {
+              "count": 500,
+              "currencyCode": "EUR",
+              "faceValue": "0.3"
+            }
+          ]
+        },
+        {
+          "unit": "casset 5",
+          "capacity": 600,
+          "status": "exist",
+          "denominations": [
+            {
+              "count": 0,
+              "currencyCode": "EUR",
+              "faceValue": "0.0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "typeId": "RCW100",
+      "assetId": "100003",
+      "cashUnits": [
+        {
+          "unit": "casset 1",
+          "capacity": 600,
+          "status": "full",
+          "denominations": [
+            {
+              "count": 600,
+              "currencyCode": "EUR",
+              "faceValue": "0.05"
+            }
+          ]
+        },
+        {
+          "unit": "casset 2",
+          "capacity": 600,
+          "status": "empty",
+          "denominations": [
+            {
+              "count": 0,
+              "currencyCode": "EUR",
+              "faceValue": "0.1"
+            }
+          ]
+        },
+        {
+          "unit": "casset 3",
+          "capacity": 600,
+          "status": "nearempty",
+          "denominations": [
+            {
+              "count": 1,
+              "currencyCode": "EUR",
+              "faceValue": "0.2"
+            }
+          ]
+        },
+        {
+          "unit": "casset 4",
+          "capacity": 600,
+          "status": "nearfull",
+          "denominations": [
+            {
+              "count": 500,
+              "currencyCode": "EUR",
+              "faceValue": "0.3"
+            }
+          ]
+        },
+        {
+          "unit": "casset 5",
+          "capacity": 600,
+          "status": "exist",
+          "denominations": [
+            {
+              "count": 0,
+              "currencyCode": "EUR",
+              "faceValue": "0.0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

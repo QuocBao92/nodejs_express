@@ -1,0 +1,95 @@
+{
+  "totalCount": "26",
+  "items": [
+    {
+      "subject": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa tempor nec feugiat nisl pretium. In iaculis nunc sed augue lacus viverra vitae congue eu. At tellus at urna condimentum mattis pellentesque id nibh. Pretium aenean pharetra magna ac placerat vestibulum. Integer enim neque volutpat ac tincidunt vitae semper. Dictum sit amet justo donec enim diam vulputate ut.",
+      "eventParams": "{\"typeId\":\"RBW100\",\"assetId\":\"100002\",\"ipAddress\":\"128.168.91.173\",\"fileTransferProtocol\":\"ftps\"}",
+      "importance": "information",
+      "eventSource": "asset",
+      "eventType": "",
+      "eventName": "connected",
+      "date": "2020-10-26T08:05:09.775Z"
+    },
+    {
+      "subject": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa tempor nec feugiat nisl pretium. In iaculis nunc sed augue lacus viverra vitae congue eu. At tellus at urna condimentum mattis pellentesque id nibh. Pretium aenean pharetra magna ac placerat vestibulum. Integer enim neque volutpat ac tincidunt vitae semper. Dictum sit amet justo donec enim diam vulputate ut.",
+      "eventParams": "{\"typeId\":\"RCW100\",\"assetId\":\"100003\",\"ipAddress\":\"128.168.91.173\",\"fileTransferProtocol\":\"ftps\"}",
+      "importance": "error",
+      "eventSource": "asset",
+      "eventType": "",
+      "eventName": "connected",
+      "date": "2020-10-26T08:05:09.775Z"
+    },
+    {
+      "subject": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa tempor nec feugiat nisl pretium. In iaculis nunc sed augue lacus viverra vitae congue eu. At tellus at urna condimentum mattis pellentesque id nibh. Pretium aenean pharetra magna ac placerat vestibulum. Integer enim neque volutpat ac tincidunt vitae semper. Dictum sit amet justo donec enim diam vulputate ut.",
+      "eventParams": "{\"typeId\":\"ISPK05\",\"assetId\":\"100001\"}",
+      "importance": "information",
+      "eventSource": "asset",
+      "eventType": "",
+      "eventName": "disconnected",
+      "date": "2020-10-26T08:05:09.775Z"
+    },
+    {
+      "subject": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa tempor nec feugiat nisl pretium. In iaculis nunc sed augue lacus viverra vitae congue eu. At tellus at urna condimentum mattis pellentesque id nibh. Pretium aenean pharetra magna ac placerat vestibulum. Integer enim neque volutpat ac tincidunt vitae semper. Dictum sit amet justo donec enim diam vulputate ut.",
+      "eventParams": "{\"typeId\":\"RBW100\",\"assetId\":\"100002\"}",
+      "importance": "information",
+      "eventSource": "asset",
+      "eventType": "",
+      "eventName": "disconnected",
+      "date": "2020-10-26T08:05:09.775Z"
+    },
+    {
+      "subject": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa tempor nec feugiat nisl pretium. In iaculis nunc sed augue lacus viverra vitae congue eu. At tellus at urna condimentum mattis pellentesque id nibh. Pretium aenean pharetra magna ac placerat vestibulum. Integer enim neque volutpat ac tincidunt vitae semper. Dictum sit amet justo donec enim diam vulputate ut.",
+      "eventParams": "{\"typeId\":\"RCW100\",\"assetId\":\"100003\"}",
+      "importance": "information",
+      "eventSource": "asset",
+      "eventType": "",
+      "eventName": "disconnected",
+      "date": "2020-10-26T08:05:09.775Z"
+    },
+    {
+      "subject": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa tempor nec feugiat nisl pretium. In iaculis nunc sed augue lacus viverra vitae congue eu. At tellus at urna condimentum mattis pellentesque id nibh. Pretium aenean pharetra magna ac placerat vestibulum. Integer enim neque volutpat ac tincidunt vitae semper. Dictum sit amet justo donec enim diam vulputate ut.",
+      "eventParams": "{\"typeId\":\"ISPK05\",\"assetId\":\"100001\",\"packageList\":\"simulator-ISPK05-firmware-package.zip\"}",
+      "importance": "information",
+      "eventSource": "asset",
+      "eventType": "",
+      "eventName": "firmwareUpdated",
+      "date": "2020-10-26T08:05:09.775Z"
+    },
+    {
+      "subject": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa tempor nec feugiat nisl pretium. In iaculis nunc sed augue lacus viverra vitae congue eu. At tellus at urna condimentum mattis pellentesque id nibh. Pretium aenean pharetra magna ac placerat vestibulum. Integer enim neque volutpat ac tincidunt vitae semper. Dictum sit amet justo donec enim diam vulputate ut.",
+      "eventParams": "{\"typeId\":\"RBW100\",\"assetId\":\"100002\",\"packageList\":\"simulator-RBW100-firmware-package.zip\"}",
+      "importance": "information",
+      "eventSource": "asset",
+      "eventType": "",
+      "eventName": "firmwareUpdated",
+      "date": "2020-10-26T08:05:09.775Z"
+    },
+    {
+      "subject": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa tempor nec feugiat nisl pretium. In iaculis nunc sed augue lacus viverra vitae congue eu. At tellus at urna condimentum mattis pellentesque id nibh. Pretium aenean pharetra magna ac placerat vestibulum. Integer enim neque volutpat ac tincidunt vitae semper. Dictum sit amet justo donec enim diam vulputate ut.",
+      "eventParams": "{\"typeId\":\"RCW100\",\"assetId\":\"100003\",\"packageList\":\"simulator-RCW100-firmware-package.zip\"}",
+      "importance": "information",
+      "eventSource": "asset",
+      "eventType": "",
+      "eventName": "firmwareUpdated",
+      "date": "2020-10-26T08:05:09.775Z"
+    },
+    {
+      "subject": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa tempor nec feugiat nisl pretium. In iaculis nunc sed augue lacus viverra vitae congue eu. At tellus at urna condimentum mattis pellentesque id nibh. Pretium aenean pharetra magna ac placerat vestibulum. Integer enim neque volutpat ac tincidunt vitae semper. Dictum sit amet justo donec enim diam vulputate ut.",
+      "eventParams": "{\"typeId\":\"RBW100\",\"assetId\":\"100002\",\"status\":\"Full,Empty,NearEmpty\"}",
+      "importance": "information",
+      "eventSource": "asset",
+      "eventType": "",
+      "eventName": "inventoryChanged",
+      "date": "2020-10-26T08:05:09.775Z"
+    },
+    {
+      "subject": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa tempor nec feugiat nisl pretium. In iaculis nunc sed augue lacus viverra vitae congue eu. At tellus at urna condimentum mattis pellentesque id nibh. Pretium aenean pharetra magna ac placerat vestibulum. Integer enim neque volutpat ac tincidunt vitae semper. Dictum sit amet justo donec enim diam vulputate ut.",
+      "eventParams": "{\"typeId\":\"ISPK05\",\"assetId\":\"100001\",\"ipAddress\":\"128.168.91.173\",\"fileTransferProtocol\":\"ftps\"}",
+      "importance": "information",
+      "eventSource": "asset",
+      "eventType": "",
+      "eventName": "connected",
+      "date": "2020-10-26T08:05:09.775Z"
+    }
+  ]
+}

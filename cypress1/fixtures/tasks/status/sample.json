@@ -1,0 +1,129 @@
+[
+  {
+    "taskId": "5ef63584-9fa1-4d94-b83e-cba4d01434d6",
+    "taskType": "downloadpackage",
+    "status": "complete",
+    "taskAssets": [
+      {
+        "typeId": "CI10",
+        "assetId": "100000",
+        "status": "complete",
+        "result": "complete"
+      }
+    ]
+  },
+  {
+    "taskId": "008461a2-5d10-413a-aa46-dc7e7982ed78",
+    "taskType": "install",
+    "status": "complete",
+    "taskAssets": [
+      {
+        "typeId": "CI10",
+        "assetId": "100000",
+        "status": "complete",
+        "result": "complete"
+      }
+    ]
+  },
+  {
+    "taskId": "ab8a1ac5-2d01-4f09-ba74-e10e8b685a0b",
+    "taskType": "downloadpackage",
+    "status": "inprogress",
+    "taskAssets": [
+      {
+        "typeId": "CI10",
+        "assetId": "100000",
+        "status": "inprogress"
+      }
+    ]
+  },
+  {
+    "taskId": "9e861f22-9691-4e85-bdce-a417ca2986ec",
+    "taskType": "install",
+    "status": "scheduled",
+    "taskAssets": [
+      {
+        "typeId": "CI10",
+        "assetId": "100000",
+        "status": "queued"
+      }
+    ]
+  },
+  {
+    "taskId": "737446b2-42fb-4ad7-96f3-b7bf03a418e2",
+    "taskType": "downloadpackage",
+    "status": "inprogress",
+    "taskAssets": [
+      {
+        "typeId": "CI10",
+        "assetId": "100000",
+        "status": "published"
+      }
+    ]
+  },
+  {
+    "taskId": "e73857c9-bf69-40d3-9fae-ba52eccb1f18",
+    "taskType": "retrievelog",
+    "status": "complete",
+    "taskAssets": [
+      {
+        "typeId": "CI10",
+        "assetId": "100000",
+        "status": "complete",
+        "result": "complete"
+      }
+    ]
+  },
+  {
+    "taskId": "e4b54784-6ba4-4b22-a7fa-c0debee3040e",
+    "taskType": "reboot",
+    "status": "complete",
+    "taskAssets": [
+      {
+        "typeId": "CI100",
+        "assetId": "100000",
+        "status": "complete",
+        "result": "complete"
+      }
+    ]
+  },
+  {
+    "taskId": "173191c4-7978-4192-8158-27c7c751b74f",
+    "taskType": "selftest",
+    "status": "complete",
+    "taskAssets": [
+      {
+        "typeId": "CI10",
+        "assetId": "100000",
+        "status": "complete",
+        "result": "complete"
+      }
+    ]
+  },
+  {
+    "taskId": "99cad10e-fbde-4da0-81f0-33f8b5624e1a",
+    "taskType": "retrievelog",
+    "status": "failure",
+    "taskAssets": [
+      {
+        "typeId": "CI10",
+        "assetId": "100010",
+        "status": "error",
+        "result": "connectionerror"
+      }
+    ]
+  },
+  {
+    "taskId": "a342b443-f125-48c9-9618-ff09db71b6a8",
+    "taskType": "reboot",
+    "status": "failure",
+    "taskAssets": [
+      {
+        "typeId": "CI10",
+        "assetId": "100010",
+        "status": "error",
+        "result": "systemerror"
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "typeId": "ISPK05",
+    "assetId": "100001",
+    "versions": [
+      {
+        "name": "Enim nunc faucibus a pellentesque sit amet porttitor. Posuere sollicitudin aliquam ultrices sagittis. Ut enim blandit volutpat maecenas. Diam in arcu cursus euismod. Tristique et egestas quis ipsum suspendisse ultrices",
+        "version": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi eget mauris pharetra et ultrices neque. Commodo odio aenean sed adipiscing. Faucibus ornare suspendisse sed nisi. Sed nisi lacus sed viverra tellus."
+      }
+    ]
+  },
+  {
+    "typeId": "RBW100",
+    "assetId": "100002",
+    "versions": [
+      {
+        "name": "Enim nunc faucibus a pellentesque sit amet porttitor. Posuere sollicitudin aliquam ultrices sagittis. Ut enim blandit volutpat maecenas. Diam in arcu cursus euismod. Tristique et egestas quis ipsum suspendisse ultrices",
+        "version": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi eget mauris pharetra et ultrices neque. Commodo odio aenean sed adipiscing. Faucibus ornare suspendisse sed nisi. Sed nisi lacus sed viverra tellus."
+      }
+    ]
+  },
+  {
+    "typeId": "RCW100",
+    "assetId": "100003",
+    "versions": [
+      {
+        "name": "Enim nunc faucibus a pellentesque sit amet porttitor. Posuere sollicitudin aliquam ultrices sagittis. Ut enim blandit volutpat maecenas. Diam in arcu cursus euismod. Tristique et egestas quis ipsum suspendisse ultrices",
+        "version": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi eget mauris pharetra et ultrices neque. Commodo odio aenean sed adipiscing. Faucibus ornare suspendisse sed nisi. Sed nisi lacus sed viverra tellus."
+      }
+    ]
+  }
+]

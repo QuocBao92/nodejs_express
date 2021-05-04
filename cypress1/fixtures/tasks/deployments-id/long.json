@@ -1,0 +1,84 @@
+{
+  "id": "5ef63584-9fa1-4d94-b83e-cba4d01434d6",
+  "name": "e2e Deployment e2e Deployment e2e Deployment e2e Deployment e2e Deployment e2e Deployment e2e Deployment e2e Deployment e2e Deployment e2e Deployment",
+  "createdBy": "Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test",
+  "updatedAt": "2020-10-26T01:12:23.000Z",
+  "assets": [
+    {
+      "alias": "this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias",
+      "status": "good",
+      "typeId": "CI10",
+      "assetId": "100000",
+      "regionId": "North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region",
+      "startedAt": "2020-10-26T10:12:29.029",
+      "updatedAt": "2020-10-26T10:12:59.059",
+      "customerId": "GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD.",
+      "locationId": "Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ"
+    },
+    {
+      "alias": "this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias",
+      "status": "error",
+      "typeId": "CI10",
+      "assetId": "100001",
+      "regionId": "North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region",
+      "startedAt": "2020-10-26T10:12:29.029",
+      "updatedAt": "2020-10-26T10:12:59.059",
+      "customerId": "GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD.",
+      "locationId": "Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ"
+    },
+    {
+      "alias": "this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias",
+      "status": "missing",
+      "typeId": "CI10",
+      "assetId": "100002",
+      "regionId": "North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region",
+      "startedAt": "2020-10-26T10:12:29.029",
+      "updatedAt": "2020-10-26T10:12:59.059",
+      "customerId": "GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD.",
+      "locationId": "Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ"
+    }
+  ],
+  "packages": {
+    "date": "2020-10-23T11:34:23.923",
+    "memo": "e2e memo e2e memo e2e memo e2e memo e2e memo e2e memo e2e memo e2e memo e2e memo e2e memo",
+    "name": "e2e-firmware.zip",
+    "model": "RCW100",
+    "status": "complete",
+    "summary": "e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100 e2e debug patch for RCW100",
+    "elements": [
+      {
+        "name": "CV_AP CV_AP CV_AP CV_AP CV_AP CV_AP CV_AP CV_AP CV_AP CV_AP",
+        "version": "SC12Z SC12Z SC12Z SC12Z SC12Z SC12Z SC12Z SC12Z SC12Z SC12Z"
+      },
+      {
+        "name": "CV_COUNTRY CV_COUNTRY CV_COUNTRY CV_COUNTRY CV_COUNTRY CV_COUNTRY CV_COUNTRY CV_COUNTRY CV_COUNTRY CV_COUNTRY",
+        "version": "02000000-02000002 02000000-02000002 02000000-02000002 02000000-02000002 02000000-02000002 02000000-02000002 02000000-02000002 02000000-02000002 02000000-02000002 02000000-02000002"
+      },
+      {
+        "name": "MAIN_AP MAIN_AP MAIN_AP MAIN_AP MAIN_AP MAIN_AP MAIN_AP MAIN_AP MAIN_AP MAIN_AP",
+        "version": "C C C C C C C C C C"
+      },
+      {
+        "name": "SPEC_INFO SPEC_INFO SPEC_INFO SPEC_INFO SPEC_INFO SPEC_INFO SPEC_INFO SPEC_INFO SPEC_INFO SPEC_INFO",
+        "version": "00-000000 00-000000 00-000000 00-000000 00-000000 00-000000 00-000000 00-000000 00-000000 00-000000"
+      }
+    ],
+    "uploadBy": "Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test",
+    "packageId": "0429534a-e9d2-443b-a6b0-71bd1aa512c3",
+    "description": "This is debug firmware This is debug firmware This is debug firmware This is debug firmware This is debug firmware This is debug firmware This is debug firmware This is debug firmware This is debug firmware This is debug firmware"
+  },
+  "downloadPackageDetail": {
+    "taskId": "5ef63584-9fa1-4d94-b83e-cba4d01434d6",
+    "status": "scheduled",
+    "scheduleType": "schedule",
+    "startAt": "2000-10-02T00:00:00",
+    "expireType": true
+  },
+  "installDetail": {
+    "taskId": "008461a2-5d10-413a-aa46-dc7e7982ed78",
+    "status": "scheduled",
+    "scheduleType": "schedule",
+    "startAt": "2000-10-01T00:00:00",
+    "expireType": true
+  }
+}

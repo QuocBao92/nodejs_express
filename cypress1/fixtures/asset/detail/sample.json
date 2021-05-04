@@ -1,0 +1,13 @@
+{
+  "typeId": "CI10",
+  "assetId": "100000",
+  "ipAddress": "192.168.0.1",
+  "description": "Asset Description",
+  "alias": "this is alias",
+  "region": "North Japan Region",
+  "location": "Himeji HQ",
+  "organization": "GLORY LTD.",
+  "status": "good",
+  "installationDate": "2018-08-10T14:16:24.000Z",
+  "imageUrl": "https://glory-bridge-poc-images.s3.jp-tok.cloud-object-storage.appdomain.cloud/CI-10.jpg"
+}

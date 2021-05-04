@@ -1,0 +1,59 @@
+[
+  {
+    "typeId": "CI10"
+  },
+  {
+    "typeId": "CI50"
+  },
+  {
+    "typeId": "CI100"
+  },
+  {
+    "typeId": "CI200"
+  },
+  {
+    "typeId": "SCW20"
+  },
+  {
+    "typeId": "SCW20A"
+  },
+  {
+    "typeId": "SCW20B"
+  },
+  {
+    "typeId": "USF200"
+  },
+  {
+    "typeId": "USF200A"
+  },
+  {
+    "typeId": "USF200B"
+  },
+  {
+    "typeId": "WR500"
+  },
+  {
+    "typeId": "WR500A"
+  },
+  {
+    "typeId": "WR500B"
+  },
+  {
+    "typeId": "RBG100"
+  },
+  {
+    "typeId": "RBG200"
+  },
+  {
+    "typeId": "RBG300"
+  },
+  {
+    "typeId": "RB500"
+  },
+  {
+    "typeId": "UWF4"
+  },
+  {
+    "typeId": "GATEWAY"
+  }
+]

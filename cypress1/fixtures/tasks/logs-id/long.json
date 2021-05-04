@@ -1,0 +1,48 @@
+{
+  "id": "5ef63584-9fa1-4d94-b83e-cba4d01434d6",
+  "logType": "Business,Trace",
+  "memo": "e2e RetrieveLog e2e RetrieveLog e2e RetrieveLog e2e RetrieveLog e2e RetrieveLog e2e RetrieveLog e2e RetrieveLog e2e RetrieveLog e2e RetrieveLog e2e RetrieveLog",
+  "createdBy": "Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test Etoe Test",
+  "updatedAt": "2020-10-26T01:12:18.000Z",
+  "assets": [
+    {
+      "alias": "this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias",
+      "status": "good",
+      "typeId": "CI10",
+      "assetId": "100000",
+      "regionId": "North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region",
+      "startedAt": "2020-10-26T10:12:24.024Z",
+      "updatedAt": "2020-10-26T10:12:54.054Z",
+      "customerId": "GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD.",
+      "locationId": "Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ"
+    },
+    {
+      "alias": "this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias",
+      "status": "error",
+      "typeId": "CI10",
+      "assetId": "100001",
+      "regionId": "North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region",
+      "startedAt": "2020-10-26T10:12:29.029",
+      "updatedAt": "2020-10-26T10:12:59.059",
+      "customerId": "GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD.",
+      "locationId": "Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ"
+    },
+    {
+      "alias": "this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias this is alias",
+      "status": "missing",
+      "typeId": "CI10",
+      "assetId": "100002",
+      "regionId": "North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region North Japan Region",
+      "startedAt": "2020-10-26T10:12:29.029",
+      "updatedAt": "2020-10-26T10:12:59.059",
+      "customerId": "GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD. GLORY LTD.",
+      "locationId": "Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ Himeji HQ"
+    }
+  ],
+  "detail": {
+    "status": "scheduled",
+    "scheduleType": "schedule",
+    "startAt": "2000-10-01T00:00:00",
+    "expireType": true
+  }
+}
