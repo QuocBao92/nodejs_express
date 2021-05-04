@@ -1,0 +1,13 @@
+{
+  "assets": [
+    {
+      "assetId": "123",
+      "status": "active",
+      "type": "Armorguard ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+      "serial": "Armorguard ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+      "locationName": "Armorguard ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+      "companyName": "Armorguard ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+      "currency": "USD"
+    }
+  ]
+}

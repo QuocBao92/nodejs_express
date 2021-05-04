@@ -1,0 +1,184 @@
+{
+  "assets": [
+    {
+      "assetId": "123",
+      "status": "active",
+      "type": "TCR-GLR-000001",
+      "serial": "ABCD-1234",
+      "locationName": "location-A",
+      "companyName": "companies-A",
+      "currency": "USD"
+    },
+    {
+      "assetId": "124",
+      "status": "inactive",
+      "type": "TCR-GLR-000001",
+      "serial": "ABCD-1235",
+      "locationName": "location-A",
+      "companyName": "companies-A",
+      "currency": "USD"
+    },
+    {
+      "assetId": "125",
+      "status": "active",
+      "type": "TCR-GLR-000001",
+      "serial": "ABCD-1236",
+      "locationName": "location-A",
+      "companyName": "companies-A",
+      "currency": "USD"
+    },
+    {
+      "assetId": "126",
+      "status": "active",
+      "type": "TCR-GLR-000002",
+      "serial": "ABCE-0001",
+      "locationName": "location-B",
+      "companyName": "companies-B",
+      "currency": "USD"
+    },
+    {
+      "assetId": "127",
+      "status": "inactive",
+      "type": "TCR-GLR-000002",
+      "serial": "ABCE-0002",
+      "locationName": "location-B",
+      "companyName": "companies-B",
+      "currency": "USD"
+    },
+    {
+      "assetId": "128",
+      "status": "active",
+      "type": "TCR-GLR-000001",
+      "serial": "ABCD-2134",
+      "locationName": "location-C",
+      "companyName": "companies-C",
+      "currency": "JPY"
+    },
+    {
+      "assetId": "129",
+      "status": "active",
+      "type": "TCR-GLR-000001",
+      "serial": "ABCD-2135",
+      "locationName": "location-C",
+      "companyName": "companies-C",
+      "currency": "JPY"
+    },
+    {
+      "assetId": "130",
+      "status": "active",
+      "type": "TCR-GLR-000001",
+      "serial": "ABCD-2136",
+      "locationName": "location-C",
+      "companyName": "companies-C",
+      "currency": "JPY"
+    },
+    {
+      "assetId": "131",
+      "status": "active",
+      "type": "TCR-GLR-000002",
+      "serial": "ABCE-0101",
+      "locationName": "location-D",
+      "companyName": "companies-D",
+      "currency": "JPY"
+    },
+    {
+      "assetId": "132",
+      "status": "active",
+      "type": "TCR-GLR-000002",
+      "serial": "ABCE-0102",
+      "locationName": "location-D",
+      "companyName": "companies-D",
+      "currency": "JPY"
+    },
+    {
+      "assetId": "133",
+      "status": "active",
+      "type": "TCR-GLR-000001",
+      "serial": "ABCD-2234",
+      "locationName": "location-A",
+      "companyName": "companies-A",
+      "currency": "USD"
+    },
+    {
+      "assetId": "134",
+      "status": "active",
+      "type": "TCR-GLR-000001",
+      "serial": "ABCD-2235",
+      "locationName": "location-A",
+      "companyName": "companies-A",
+      "currency": "USD"
+    },
+    {
+      "assetId": "135",
+      "status": "inactive",
+      "type": "TCR-GLR-000001",
+      "serial": "ABCD-2236",
+      "locationName": "location-A",
+      "companyName": "companies-A",
+      "currency": "USD"
+    },
+    {
+      "assetId": "136",
+      "status": "inactive",
+      "type": "TCR-GLR-000002",
+      "serial": "ABCE-2001",
+      "locationName": "location-B",
+      "companyName": "companies-B",
+      "currency": "USD"
+    },
+    {
+      "assetId": "137",
+      "status": "inactive",
+      "type": "TCR-GLR-000002",
+      "serial": "ABCE-2002",
+      "locationName": "location-B",
+      "companyName": "companies-B",
+      "currency": "USD"
+    },
+    {
+      "assetId": "138",
+      "status": "inactive",
+      "type": "TCR-GLR-000001",
+      "serial": "ABCD-3134",
+      "locationName": "location-C",
+      "companyName": "companies-C",
+      "currency": "JPY"
+    },
+    {
+      "assetId": "139",
+      "status": "inactive",
+      "type": "TCR-GLR-000001",
+      "serial": "ABCD-3135",
+      "locationName": "location-C",
+      "companyName": "companies-C",
+      "currency": "JPY"
+    },
+    {
+      "assetId": "140",
+      "status": "inactive",
+      "type": "TCR-GLR-000001",
+      "serial": "ABCD-3136",
+      "locationName": "location-C",
+      "companyName": "companies-C",
+      "currency": "JPY"
+    },
+    {
+      "assetId": "142",
+      "status": "active",
+      "type": "TCR-GLR-000002",
+      "serial": "ABCE-2101",
+      "locationName": "location-D",
+      "companyName": "companies-D",
+      "currency": "JPY"
+    },
+    {
+      "assetId": "143",
+      "status": "active",
+      "type": "TCR-GLR-000002",
+      "serial": "ABCE-2102",
+      "locationName": "location-D",
+      "companyName": "companies-D",
+      "currency": "JPY"
+    }
+  ]
+}

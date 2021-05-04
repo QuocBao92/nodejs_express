@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "ABC Inc",
+    "locations": [
+      {
+        "id": 1,
+        "name": "Christchurch",
+        "citId": "1",
+        "citName": "citName 01-1",
+        "pavementLimit": "2000000"
+      },
+      {
+        "id": 2,
+        "name": "Crawley",
+        "citId": "2",
+        "citName": "citName 01-2",
+        "pavementLimit": "2000000"
+      }
+    ]
+  }
+]

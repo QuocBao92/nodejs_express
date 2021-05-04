@@ -1,0 +1,16 @@
+{
+"sortField": {
+    "column": "name",
+    "orderBy": "asc"
+  },
+  "calendars": [
+    {
+      "calendarId": "789",
+      "name": "Summertime 789",
+      "type": "service",
+      "startDate": "2020-11-01",
+      "endDate": "2020-11-31",
+      "isDeletable": true
+    }
+  ]
+}

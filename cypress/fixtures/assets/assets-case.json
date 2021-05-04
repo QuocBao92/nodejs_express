@@ -1,0 +1,49 @@
+{
+  "assets": [
+    {
+      "assetId": "123",
+      "status": "active",
+      "type": "TCR-GLR-000001",
+      "serial": "ABCD-1234",
+      "locationName": "location-A",
+      "companyName": "companies-A",
+      "currency": "USD"
+    },
+    {
+      "assetId": "124",
+      "status": "inactive",
+      "type": "TCR-GLR-000001",
+      "serial": "ABCD-1235",
+      "locationName": "location-A",
+      "companyName": "companies-A",
+      "currency": "USD"
+    },
+    {
+      "assetId": "125",
+      "status": "active",
+      "type": "TCR-GLR-000001",
+      "serial": "ABCD-1236",
+      "locationName": "location-A",
+      "companyName": "companies-A",
+      "currency": "USD"
+    },
+    {
+      "assetId": "126",
+      "status": "active",
+      "type": "TCR-GLR-000002",
+      "serial": "ABCE-0001",
+      "locationName": "location-B",
+      "companyName": "companies-B",
+      "currency": "USD"
+    },
+    {
+      "assetId": "127",
+      "status": "inactive",
+      "type": "TCR-GLR-000002",
+      "serial": "ABCE-0002",
+      "locationName": "location-B",
+      "companyName": "companies-B",
+      "currency": "USD"
+    }
+  ]
+}

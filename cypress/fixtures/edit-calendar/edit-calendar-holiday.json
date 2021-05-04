@@ -1,0 +1,175 @@
+{
+  "initialValue": {
+    "name": "",
+    "calendarType": [
+      {
+        "default": true,
+        "name": "service",
+        "id": 1
+      },
+      {
+        "default": false,
+        "name": "holiday",
+        "id": 2
+      },
+      {
+        "default": false,
+        "name": "emergency",
+        "id": 3
+      }
+    ],
+    "startDate": "2020-12-01",
+    "endDate": "",
+    "description": "",
+    "schedule": {
+      "pattern": {
+        "repeat": {
+          "default": "weekly",
+          "daily": {
+            "default": "onlyCitWorkingDays",
+            "onlyCitWorkingDays": {},
+            "onlyEveryXDays": {
+              "interval": 0,
+              "isIncludeCitWorkingDays": true,
+              "recurrencePolicy": {
+                "items": ["moveNext", "movePrevious", "moveNearest"],
+                "default": "moveNext"
+              }
+            }
+          },
+          "weekly": {
+            "interval": 1,
+            "daysOfWeekSelection": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": true,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            }
+          },
+          "monthly": {
+            "default": "repeatOnDayOfWeek",
+            "repeatOnDayOfWeek": {
+              "interval": 1,
+              "weekNumber": [
+                {
+                  "default": true,
+                  "name": "first"
+                },
+                {
+                  "default": false,
+                  "name": "second"
+                },
+                {
+                  "default": false,
+                  "name": "third"
+                },
+                {
+                  "default": false,
+                  "name": "fourth"
+                },
+                {
+                  "default": false,
+                  "name": "last"
+                }
+              ],
+              "dayOfWeek": [
+                {
+                  "default": true,
+                  "name": "monday"
+                },
+                {
+                  "default": false,
+                  "name": "tuesday"
+                },
+                {
+                  "default": false,
+                  "name": "wednesday"
+                },
+                {
+                  "default": false,
+                  "name": "thursday"
+                },
+                {
+                  "default": false,
+                  "name": "friday"
+                },
+                {
+                  "default": false,
+                  "name": "saturday"
+                },
+                {
+                  "default": false,
+                  "name": "sunday"
+                }
+              ]
+            },
+            "repeatOnDayOfNumber": {
+              "interval": 1,
+              "dayNumber": 10,
+              "isIncludeCitWorkingDays": true,
+              "recurrencePolicy": {
+                "items": ["moveNext", "movePrevious", "moveNearest"],
+                "default": "moveNext"
+              }
+            }
+          }
+        },
+        "leadDays": {
+          "monday": 4,
+          "tuesday": 4,
+          "wednesday": 2,
+          "thursday": 2,
+          "friday": 2,
+          "saturday": 2,
+          "sunday": 2
+        }
+      },
+      "holiday": []
+    }
+  },
+  "setValue": {
+    "name": "calendar2",
+    "calendarType": "holiday",
+    "startDate": "",
+    "endDate": "",
+    "description": "",
+    "cits": [
+      {
+        "citId": "1",
+        "name": "Armorguard",
+        "country": "New Zealand"
+      },
+      {
+        "citId": "2",
+        "name": "CIT-Name1",
+        "country": "New Zealand"
+      },
+      {
+        "citId": "3",
+        "name": "CIT-Name2",
+        "country": "New Zealand"
+      }
+    ],
+    "schedule": {
+      "holiday": [
+        {
+          "name": "Christmas",
+          "serviceOffset": 99,
+          "orderOffset": -99,
+          "date": "2020-12-24",
+          "isSkippable": true
+        },
+        {
+          "name": "New Year",
+          "serviceOffset": 3,
+          "orderOffset": 0,
+          "date": "2021-01-01",
+          "isSkippable": false
+        }
+      ]
+    }
+  }
+}

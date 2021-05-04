@@ -1,0 +1,24 @@
+[
+  {
+    "companyId": 2,
+    "name": "ABC Inc",
+    "locations": [
+      {
+        "id": 1,
+        "name": "locations 1"
+      },
+      {
+        "id": 2,
+        "name": "locations 2"
+      },
+      {
+        "id": 3,
+        "name": "locations 3"
+      },
+      {
+        "id": 4,
+        "name": "locations 4"
+      }
+    ]
+  }
+]

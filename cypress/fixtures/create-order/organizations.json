@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "ABC Inc",
+    "locations": [
+      {
+        "id": 1,
+        "name": "Christchurch",
+        "citId": "1",
+        "citName": "citName 01-1",
+        "pavementLimit": "2000000"
+      },
+      {
+        "id": 2,
+        "name": "Crawley",
+        "citId": "2",
+        "citName": "citName 01-2",
+        "pavementLimit": "2000000"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Adopt Ltd",
+    "locations": [
+      {
+        "id": 3,
+        "name": "Canterbury",
+        "citId": "3",
+        "citName": "citName 02-1",
+        "pavementLimit": "2000000"
+      },
+      {
+        "id": 4,
+        "name": "Conway",
+        "citId": "4",
+        "citName": "citName 02-2",
+        "pavementLimit": "2000000"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Glory Ltd",
+    "locations": [
+      {
+        "id": 5,
+        "name": "Himeji 01-101",
+        "citId": "5",
+        "citName": "citName 03-1",
+        "pavementLimit": "2000000"
+      },
+      {
+        "id": 6,
+        "name": "Himeji 01-102",
+        "citId": "6",
+        "citName": "citName 03-2",
+        "pavementLimit": "2000000"
+      },
+      {
+        "id": 7,
+        "name": "Himeji 01-103",
+        "citId": "7",
+        "citName": "citName 03-3",
+        "pavementLimit": "2000000"
+      },
+      {
+        "id": 8,
+        "name": "Tokyo 01-001",
+        "citId": "8",
+        "citName": "citName 03-4",
+        "pavementLimit": "2000000"
+      },
+      {
+        "id": 9,
+        "name": "Tokyo 01-002",
+        "citId": "9",
+        "citName": "citName 03-5",
+        "pavementLimit": "2000000"
+      },
+      {
+        "id": 10,
+        "name": "Tokyo 01-003",
+        "citId": "10",
+        "citName": "citName 03-6",
+        "pavementLimit": "2000000"
+      }
+    ]
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "id": 0,
+    "status": "active",
+    "name": "Armorguard",
+    "country": "New Zealand",
+    "isDeletable": true,
+    "isEditable": true,
+    "totalLocationCount": 0
+  },
+  {
+    "id": 1,
+    "status": "active",
+    "name": "CIT-Name1",
+    "country": "New Zealand",
+    "isDeletable": true,
+    "isEditable": true,
+    "totalLocationCount": 1000
+  },
+  {
+    "id": 2,
+    "status": "active",
+    "name": "CIT-Name2",
+    "country": "New Zealand",
+    "isDeletable": true,
+    "isEditable": true,
+    "totalLocationCount": 10
+  },
+  {
+    "id": 3,
+    "status": "active",
+    "name": "CIT-Name3",
+    "country": "New Zealand",
+    "isDeletable": false,
+    "isEditable": true,
+    "totalLocationCount": 10
+  },
+  {
+    "id": 4,
+    "status": "active",
+    "name": "CIT-Name4",
+    "country": "New Zealand",
+    "isDeletable": true,
+    "isEditable": true,
+    "totalLocationCount": 10
+  },
+  {
+    "id": 5,
+    "status": "active",
+    "name": "CIT-Name5",
+    "country": "New Zealand",
+    "isDeletable": true,
+    "isEditable": true,
+    "totalLocationCount": 10
+  },
+  {
+    "id": 6,
+    "status": "active",
+    "name": "CIT-Name6",
+    "country": "New Zealand",
+    "isDeletable": false,
+    "isEditable": true,
+    "totalLocationCount": 10
+  },
+  {
+    "id": 7,
+    "status": "active",
+    "name": "CIT-Name7",
+    "country": "New Zealand",
+    "isDeletable": false,
+    "isEditable": true,
+    "totalLocationCount": 10
+  },
+  {
+    "id": 8,
+    "status": "active",
+    "name": "CIT-Name8",
+    "country": "New Zealand",
+    "isDeletable": false,
+    "isEditable": true,
+    "totalLocationCount": 10
+  },
+  {
+    "id": 9,
+    "status": "active",
+    "name": "CIT-Name9",
+    "country": "New Zealand",
+    "isDeletable": true,
+    "isEditable": true,
+    "totalLocationCount": 10
+  },
+  {
+    "id": 10,
+    "status": "active",
+    "name": "CIT-Name10",
+    "country": "New Zealand",
+    "isDeletable": false,
+    "isEditable": true,
+    "totalLocationCount": 10
+  },
+  {
+    "id": 11,
+    "status": "active",
+    "name": "CIT-Name11",
+    "country": "New Zealand",
+    "isEditable": true,
+    "totalLocationCount": 10
+  },
+  {
+    "id": 12,
+    "status": "active",
+    "name": "CIT-Name12",
+    "country": "New Zealand",
+    "isDeletable": true,
+    "isEditable": true,
+    "totalLocationCount": 10
+  },
+  {
+    "id": 13,
+    "status": "active",
+    "name": "CIT-Name13",
+    "country": "New Zealand",
+    "isDeletable": false,
+    "isEditable": true,
+    "totalLocationCount": 10
+  },
+  {
+    "id": 14,
+    "status": "active",
+    "name": "CIT-Name14",
+    "country": "Australia",
+    "isDeletable": false,
+    "isEditable": false,
+    "totalLocationCount": 10
+  },
+  {
+    "id": 15,
+    "status": "active",
+    "name": "CIT-Name15",
+    "country": "Australia",
+    "isDeletable": false,
+    "isEditable": true,
+    "totalLocationCount": 10
+  },
+  {
+    "id": 16,
+    "status": "active",
+    "name": "CIT-Name16",
+    "country": "Australia",
+    "isDeletable": false,
+    "isEditable": true,
+    "totalLocationCount": 10
+  },
+  {
+    "id": 17,
+    "status": "active",
+    "name": "CIT-Name17",
+    "country": "Australia",
+    "isDeletable": true,
+    "isEditable": true,
+    "totalLocationCount": 10
+  },
+  {
+    "id": 18,
+    "status": "active",
+    "name": "CIT-Name18",
+    "country": "Australia",
+    "isDeletable": true,
+    "isEditable": true,
+    "totalLocationCount": 10
+  },
+  {
+    "id": 19,
+    "status": "active",
+    "name": "CIT-Name19",
+    "country": "Australia",
+    "isDeletable": true,
+    "isEditable": true,
+    "totalLocationCount": 10
+  },
+  {
+    "id": 20,
+    "status": "active",
+    "name": "CIT-Name20",
+    "country": "Australia",
+    "isDeletable": true,
+    "isEditable": true,
+    "totalLocationCount": 10
+  },
+  {
+    "id": 21,
+    "status": "active",
+    "name": "CIT-Name21",
+    "country": "Australia",
+    "isDeletable": true,
+    "isEditable": true,
+    "totalLocationCount": 10
+  },
+  {
+    "id": 22,
+    "status": "active",
+    "name": "CIT-Name22",
+    "country": "Australia",
+    "isDeletable": false,
+    "isEditable": true,
+    "totalLocationCount": 10
+  },
+  {
+    "id": 23,
+    "status": "active",
+    "name": "CIT-Name23",
+    "country": "Australia",
+    "isDeletable": true,
+    "isEditable": true,
+    "totalLocationCount": 10
+  },
+  {
+    "id": 24,
+    "status": "active",
+    "name": "CIT-Name24",
+    "country": "Australia",
+    "isDeletable": true,
+    "isEditable": true,
+    "totalLocationCount": 10
+  }
+]

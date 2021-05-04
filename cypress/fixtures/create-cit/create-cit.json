@@ -1,0 +1,645 @@
+{
+  "name": "",
+  "reference": "",
+  "contactName": "",
+  "contactPhoneNumber": "",
+  "contactEmail": "",
+  "addressLine1": "",
+  "addressLine2": "",
+  "addressLine3": "",
+  "state": "",
+  "postalCode": "",
+  "country": "",
+  "description": "",
+  "comments": "",
+  "pickup": {
+    "notes": true,
+    "notesCollect": false,
+    "notesCollectRemove": false,
+    "coins": true,
+    "coinsCollect": false,
+    "coinsCollectRemove": false
+  },
+  "delivery": {
+    "notes": true,
+    "notesReplenish": false,
+    "coins": true,
+    "coinsReplenish": false
+  },
+  "pavementLimit": "0",
+  "workingDays": {
+    "monday": {
+      "isWorking": true,
+      "leadDays": 4
+    },
+    "tuesday": {
+      "isWorking": true,
+      "leadDays": 2
+    },
+    "wednesday": {
+      "isWorking": true,
+      "leadDays": 2
+    },
+    "thursday": {
+      "isWorking": true,
+      "leadDays": 2
+    },
+    "friday": {
+      "isWorking": true,
+      "leadDays": 2
+    },
+    "saturday": {
+      "isWorking": false,
+      "leadDays": 0
+    },
+    "sunday": {
+      "isWorking": false,
+      "leadDays": 0
+    }
+  },
+  "cutOffTime": "12:00 AM",
+  "orderTemplates": [
+    {
+      "format": "pdf",
+      "default": false,
+      "templates": [
+        {
+          "id": "1",
+          "templateName": "pdf template1",
+          "default": true
+        }
+      ]
+    },
+    {
+      "format": "xml",
+      "default": true,
+      "templates": [
+        {
+          "id": "2",
+          "templateName": "xml template1",
+          "default": true
+        }
+      ]
+    }
+  ],
+  "orderMethods": ["manual", "email", "sftp"],
+  "retailerLocations": [],
+  "currencies": [
+    {
+      "code": "AUD",
+      "name": "Australian dollar",
+      "decimalPlaces": 2,
+      "denominations": [
+        {
+          "selected": true,
+          "faceValue": 100,
+          "type": "note",
+          "symbol": "$",
+          "exponent": 0,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 50,
+          "type": "note",
+          "symbol": "$",
+          "exponent": 0,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 20,
+          "type": "note",
+          "symbol": "$",
+          "exponent": 0,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 10,
+          "type": "note",
+          "symbol": "$",
+          "exponent": 0,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 5,
+          "type": "note",
+          "symbol": "$",
+          "exponent": 0,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 2,
+          "type": "coin",
+          "symbol": "$",
+          "exponent": 0,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 1,
+          "type": "coin",
+          "symbol": "$",
+          "exponent": 0,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 50,
+          "type": "coin",
+          "symbol": "c",
+          "exponent": -2,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 20,
+          "type": "coin",
+          "symbol": "c",
+          "exponent": -2,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 10,
+          "type": "coin",
+          "symbol": "c",
+          "exponent": -2,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 5,
+          "type": "coin",
+          "symbol": "c",
+          "exponent": -2,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        }
+      ]
+    },
+    {
+      "code": "JPY",
+      "name": "Japanese yen",
+      "decimalPlaces": 0,
+      "denominations": [
+        {
+          "selected": true,
+          "faceValue": 10000,
+          "type": "note",
+          "symbol": "¥",
+          "exponent": 0,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 5000,
+          "type": "note",
+          "symbol": "¥",
+          "exponent": 0,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 2000,
+          "type": "note",
+          "symbol": "¥",
+          "exponent": 0,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 1000,
+          "type": "note",
+          "symbol": "¥",
+          "exponent": 0,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 500,
+          "type": "coin",
+          "symbol": "¥",
+          "exponent": 0,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 100,
+          "type": "coin",
+          "symbol": "¥",
+          "exponent": 0,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 50,
+          "type": "coin",
+          "symbol": "¥",
+          "exponent": 0,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 10,
+          "type": "coin",
+          "symbol": "¥",
+          "exponent": 0,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 5,
+          "type": "coin",
+          "symbol": "¥",
+          "exponent": 0,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 1,
+          "type": "coin",
+          "symbol": "¥",
+          "exponent": 0,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        }
+      ]
+    },
+    {
+      "code": "NZD",
+      "name": "New Zealand dollar",
+      "decimalPlaces": 2,
+      "denominations": [
+        {
+          "selected": true,
+          "faceValue": 100,
+          "type": "note",
+          "symbol": "$",
+          "exponent": 0,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 50,
+          "type": "note",
+          "symbol": "$",
+          "exponent": 0,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 20,
+          "type": "note",
+          "symbol": "$",
+          "exponent": 0,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 10,
+          "type": "note",
+          "symbol": "$",
+          "exponent": 0,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 5,
+          "type": "note",
+          "symbol": "$",
+          "exponent": 0,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 2,
+          "type": "coin",
+          "symbol": "$",
+          "exponent": 0,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 1,
+          "type": "coin",
+          "symbol": "$",
+          "exponent": 0,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 50,
+          "type": "coin",
+          "symbol": "c",
+          "exponent": -2,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 20,
+          "type": "coin",
+          "symbol": "c",
+          "exponent": -2,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 10,
+          "type": "coin",
+          "symbol": "c",
+          "exponent": -2,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        }
+      ]
+    },
+    {
+      "code": "USD",
+      "name": "United States dollar",
+      "decimalPlaces": 2,
+      "denominations": [
+        {
+          "selected": true,
+          "faceValue": 100,
+          "type": "note",
+          "symbol": "$",
+          "exponent": 0,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 50,
+          "type": "note",
+          "symbol": "$",
+          "exponent": 0,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 20,
+          "type": "note",
+          "symbol": "$",
+          "exponent": 0,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 10,
+          "type": "note",
+          "symbol": "$",
+          "exponent": 0,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 5,
+          "type": "note",
+          "symbol": "$",
+          "exponent": 0,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 2,
+          "type": "note",
+          "symbol": "$",
+          "exponent": 0,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 1,
+          "type": "note",
+          "symbol": "$",
+          "exponent": 0,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 100,
+          "type": "coin",
+          "symbol": "¢",
+          "exponent": -2,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 50,
+          "type": "coin",
+          "symbol": "¢",
+          "exponent": -2,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 25,
+          "type": "coin",
+          "symbol": "¢",
+          "exponent": -2,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 10,
+          "type": "coin",
+          "symbol": "¢",
+          "exponent": -2,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 5,
+          "type": "coin",
+          "symbol": "¢",
+          "exponent": -2,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        },
+        {
+          "selected": true,
+          "faceValue": 1,
+          "type": "coin",
+          "symbol": "¢",
+          "exponent": -2,
+          "currencyUnits": {
+            "options": ["single", "bag", "roll", "strap", "bundle"],
+            "defaultUnit": "single",
+            "defaultCount": 1
+          }
+        }
+      ]
+    }
+  ]
+}

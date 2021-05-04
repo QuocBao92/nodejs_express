@@ -1,0 +1,171 @@
+{
+  "initialValue": {
+    "name": "",
+    "calendarType": [
+      {
+        "default": true,
+        "id": 1,
+        "name": "service"
+      },
+      {
+        "default": false,
+        "id": 2,
+        "name": "emergency"
+      },
+      {
+        "default": false,
+        "id": 3,
+        "name": "holiday"
+      }
+    ],
+    "description": "",
+    "startDate": "2020-11-30",
+    "endDate": null,
+    "schedule": {
+      "pattern": {
+        "repeat": {
+          "default": "weekly",
+          "daily": {
+            "default": "onlyEveryXDays",
+            "onlyCitWorkingDays": {},
+            "onlyEveryXDays": {
+              "interval": 0,
+              "isIncludeCitWorkingDays": true,
+              "recurrencePolicy": {
+                "options": [
+                  "moveNext",
+                  "movePrevious",
+                  "moveNearest"
+                ],
+                "default": "moveNext"
+              }
+            }
+          },
+          "weekly": {
+            "interval": 1,
+            "daysOfWeekSelection": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": true,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            }
+          },
+          "monthly": {
+            "default": "repeatOnDayOfWeek",
+            "repeatOnDayOfWeek": {
+              "interval": 1,
+              "weekNumber": [
+                {
+                  "default": true,
+                  "name": "first"
+                },
+                {
+                  "default": false,
+                  "name": "second"
+                },
+                {
+                  "default": false,
+                  "name": "third"
+                },
+                {
+                  "default": false,
+                  "name": "fourth"
+                },
+                {
+                  "default": false,
+                  "name": "last"
+                }
+              ],
+              "dayOfWeek": [
+                {
+                  "default": true,
+                  "name": "monday"
+                },
+                {
+                  "default": false,
+                  "name": "tuesday"
+                },
+                {
+                  "default": false,
+                  "name": "wednesday"
+                },
+                {
+                  "default": false,
+                  "name": "thursday"
+                },
+                {
+                  "default": false,
+                  "name": "friday"
+                },
+                {
+                  "default": false,
+                  "name": "saturday"
+                },
+                {
+                  "default": false,
+                  "name": "sunday"
+                }
+              ]
+            },
+            "repeatOnDayOfNumber": {
+              "interval": 1,
+              "dayNumber": 10,
+              "isIncludeCitWorkingDays": true,
+              "recurrencePolicy": {
+                "options": [
+                  "moveNext",
+                  "movePrevious",
+                  "moveNearest"
+                ],
+                "default": "moveNext"
+              }
+            }
+          }
+        },
+        "leadDays": {
+          "monday": 4,
+          "tuesday": 4,
+          "wednesday": 2,
+          "thursday": 2,
+          "friday": 2,
+          "saturday": 2,
+          "sunday": 2
+        }
+      },
+      "holiday": []
+    }
+  },
+  "setValue": {
+    "name": "calendar1",
+    "calendarType": "emergency",
+    "description": "calendar1 description",
+    "startDate": "2020-11-20",
+    "endDate": "2020-11-22",
+    "schedule": {
+      "pattern": {
+        "repeat": {
+          "monthly": {
+            "repeatOnDayOfNumber": {
+              "dayNumber": 8,
+              "interval": 2,
+              "isIncludeCitWorkingDays": true,
+              "recurrencePolicy": "moveNearest"
+            }
+          }
+        },
+        "leadDays": {
+          "monday": 1,
+          "tuesday": 4,
+          "wednesday": 3,
+          "thursday": 2,
+          "friday": 5,
+          "saturday": 2,
+          "sunday": 2
+        }
+      }
+    }
+  }
+}

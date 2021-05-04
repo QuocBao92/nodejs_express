@@ -1,0 +1,55 @@
+[
+  {
+    "calendarId": 1,
+    "calendarName": "holiday-1",
+    "holidays": [
+      {
+        "date": "2020-11-11",
+        "name": "holiday-name",
+        "orderOffset": 0,
+        "serviceOffset": 0,
+        "isSkippable": true
+      }
+    ]
+  },
+  {
+    "calendarId": 2,
+    "calendarName": "holiday-2",
+    "holidays": [
+      {
+        "date": "2020-11-11",
+        "name": "holiday-name",
+        "orderOffset": 0,
+        "serviceOffset": 0,
+        "isSkippable": false
+      }
+    ]
+  },
+  {
+    "calendarId": 3,
+    "calendarName": "holiday-3",
+    "holidays": [
+      {
+        "date": "2020-11-11",
+        "name": "holiday-1",
+        "orderOffset": 0,
+        "serviceOffset": 0,
+        "isSkippable": true
+      },
+      {
+        "date": "2020-11-11",
+        "name": "holiday-3",
+        "orderOffset": 0,
+        "serviceOffset": 0,
+        "isSkippable": true
+      },
+      {
+        "date": "2020-11-11",
+        "name": "holiday-3",
+        "orderOffset": 0,
+        "serviceOffset": 0,
+        "isSkippable": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 3,
+    "status": "active",
+    "name": "Armorguard ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "country": "New Zealand"
+  },
+  {
+    "id": 2,
+    "status": "active",
+    "name": "CIT-Name1",
+    "country": "New Zealand"
+  },
+  {
+    "id": 1,
+    "status": "active",
+    "name": "CIT-Name2",
+    "country": "New Zealand"
+  }
+]

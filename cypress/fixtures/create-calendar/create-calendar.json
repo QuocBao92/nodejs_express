@@ -1,0 +1,142 @@
+{
+  "name": "",
+  "calendarType": [
+    {
+      "default": true,
+      "id": 1,
+      "name": "service"
+    },
+    {
+      "default": false,
+      "id": 2,
+      "name": "holiday"
+    },
+    {
+      "default": false,
+      "id": 3,
+      "name": "emergency"
+    }
+  ],
+  "description": "",
+  "startDate": "2020-12-02",
+  "endDate": "",
+  "cits": [],
+  "schedule": {
+    "pattern": {
+      "repeat": {
+        "default": "weekly",
+        "daily": {
+          "default": "onlyCitWorkingDays",
+          "onlyCitWorkingDays": {},
+          "onlyEveryXDays": {
+            "interval": 1,
+            "isIncludeCitWorkingDays": true,
+            "recurrencePolicy": {
+              "options": ["moveNext", "movePrevious", "moveNearest"],
+              "default": "moveNext"
+            }
+          }
+        },
+        "weekly": {
+          "interval": 1,
+          "daysOfWeekSelection": {
+            "monday": false,
+            "tuesday": false,
+            "wednesday": false,
+            "thursday": false,
+            "friday": false,
+            "saturday": false,
+            "sunday": false
+          }
+        },
+        "monthly": {
+          "default": "repeatOnDayOfWeek",
+          "repeatOnDayOfWeek": {
+            "weekNumber": [
+              {
+                "default": true,
+                "name": "first"
+              },
+              {
+                "default": false,
+                "name": "second"
+              },
+              {
+                "default": false,
+                "name": "third"
+              },
+              {
+                "default": false,
+                "name": "fourth"
+              },
+              {
+                "default": false,
+                "name": "last"
+              }
+            ],
+            "dayOfWeek": [
+              {
+                "default": true,
+                "name": "monday"
+              },
+              {
+                "default": false,
+                "name": "tuesday"
+              },
+              {
+                "default": false,
+                "name": "wednesday"
+              },
+              {
+                "default": false,
+                "name": "thursday"
+              },
+              {
+                "default": false,
+                "name": "friday"
+              },
+              {
+                "default": false,
+                "name": "saturday"
+              },
+              {
+                "default": false,
+                "name": "sunday"
+              }
+            ],
+            "interval": 1
+          },
+          "repeatOnDayOfNumber": {
+            "dayNumber": 1,
+            "interval": 1,
+            "isIncludeCitWorkingDays": true,
+            "recurrencePolicy": {
+              "options": ["moveNext", "movePrevious", "moveNearest"],
+              "default": "moveNext"
+            }
+          }
+        }
+      },
+      "leadDays": {
+        "monday": 4,
+        "tuesday": 4,
+        "wednesday": 2,
+        "thursday": 2,
+        "friday": 2,
+        "saturday": 2,
+        "sunday": 2
+      }
+    },
+    "holiday": [
+      {
+        "name": "Christmas",
+        "date": "2020-12-24",
+        "orderOffset": 0,
+        "serviceOffset": 0,
+        "isSkippable": false,
+        "isDeletable": true,
+        "isValid": true
+      }
+    ]
+  }
+}

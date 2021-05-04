@@ -1,0 +1,127 @@
+{
+  "currencyDenominations": [
+    {
+      "currencyCode": "NZD",
+      "decimalPlaces": 2,
+      "symbol": "$",
+      "denominations": [
+        {
+          "faceValue": 100,
+          "type": "note",
+          "symbol": "$",
+          "unit": "bundle",
+          "exponent": 0,
+          "quantityPerUnit": 100
+        },
+        {
+          "faceValue": 50,
+          "type": "note",
+          "symbol": "$",
+          "unit": "single",
+          "exponent": 0,
+          "quantityPerUnit": 1
+        },
+        {
+          "faceValue": 20,
+          "type": "note",
+          "symbol": "$",
+          "unit": "single",
+          "exponent": 0,
+          "quantityPerUnit": 1
+        },
+        {
+          "faceValue": 10,
+          "type": "note",
+          "symbol": "$",
+          "unit": "single",
+          "exponent": 0,
+          "quantityPerUnit": 1
+        },
+        {
+          "faceValue": 5,
+          "type": "note",
+          "symbol": "$",
+          "unit": "single",
+          "exponent": 0,
+          "quantityPerUnit": 1
+        },
+        {
+          "faceValue": 2,
+          "type": "coin",
+          "symbol": "$",
+          "unit": "single",
+          "exponent": 0,
+          "quantityPerUnit": 1
+        },
+        {
+          "faceValue": 1,
+          "type": "coin",
+          "symbol": "$",
+          "unit": "bag",
+          "exponent": 0,
+          "quantityPerUnit": 100
+        },
+        {
+          "faceValue": 50,
+          "type": "coin",
+          "symbol": "c",
+          "unit": "single",
+          "exponent": -2,
+          "quantityPerUnit": 1
+        },
+        {
+          "faceValue": 20,
+          "type": "coin",
+          "symbol": "c",
+          "unit": "single",
+          "exponent": -2,
+          "quantityPerUnit": 1
+        },
+        {
+          "faceValue": 10,
+          "type": "coin",
+          "symbol": "c",
+          "unit": "single",
+          "exponent": -2,
+          "quantityPerUnit": 1
+        }
+      ]
+    }
+  ],
+  "calendars": {
+    "citCalendars": {
+      "holidays": [
+        {
+          "date": "2020-12-25",
+          "name": "Christmas Day",
+          "isSkippable": false,
+          "orderOffset": -3,
+          "serviceOffset": -2
+        },
+        {
+          "date": "2020-12-31",
+          "name": "New year Evening",
+          "isSkippable": false,
+          "orderOffset": -2,
+          "serviceOffset": 3
+        },
+        {
+          "date": "2021-01-01",
+          "name": "New year welcome",
+          "isSkippable": false,
+          "orderOffset": -3,
+          "serviceOffset": 4
+        }
+      ],
+      "workingDays": {
+        "monday": true,
+        "tuesday": true,
+        "wednesday": true,
+        "thursday": true,
+        "friday": true,
+        "saturday": false,
+        "sunday": false
+      }
+    }
+  }
+}
